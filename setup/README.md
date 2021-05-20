@@ -33,7 +33,7 @@ ct a blank project as we will starting from scratch. Press the **Next** button.
 
 ***
 
-7. ou might get a pop up prompting you to update the project.  Please **update** to the latest version. 
+7. ou might get a pop up prompting you to update the project.  Please the **Update** button to get the latest version (think of this as a day 1 patch in a game). 
 
 ![udpate project file](../images/updateProjectFile.jpg)
 
