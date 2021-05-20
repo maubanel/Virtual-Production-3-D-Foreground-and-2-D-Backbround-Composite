@@ -87,4 +87,24 @@
 
 ![add image media source](../images/addMediaSource.jpg)
 
+***
+
+15. Now we will be importing these individual .exr frames as a single streamable movie.  Right click on the **Scene0010** folder and press the **Add Import | Media | Image Media Source**.
+
+![add image media source](../images/addMediaSource.jpg)
+
+***
+
+16.  Rename the clip to **Scene0010**.  Double click to open the media source so we can point it to the correct folder:
+
+![rename scene 10 image media source](../images/scene10Clip.jpg)
+
+***
+
+17. Now press the three ellipses (...) and then select the folder that contains the plate which should be **Content | Plates | plate**.
+
+![point to background plate](../images/selectBackgroundPlate.jpg)
+
+
+
 
