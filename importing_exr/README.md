@@ -101,10 +101,13 @@
 
 ***
 
-17. Now press the three ellipses (...) and then select the folder that contains the plate which should be **Content | Plates | plate**.
+17. Now press the three ellipses (...) and then select the folder that contains the plate which should be **Content | Plates | plate**. Select the very first frame then press the **Open** button.  You do not need to select all the exr's it will read all of them alpha-numerically in the folder.  Be careful when naming these files and notice the leading number.
 
 ![point to background plate](../images/selectBackgroundPlate.jpg)
 
+***
 
+18. Now we need to tell the software what framerate this scene was shot at.  It is shot in **24 Frames per Second**.  Click on the small arrow and select the correct framerate.
 
+![select 24 fps](../images/changeTo24FPS.jpg)
 
