@@ -57,3 +57,9 @@
 10. Now all compositing happens through a material.  Lets create one but first add a **Materials** folder to the project.
 
 ![add materials folder](../images/addMaterialsFolder.jpg)
+
+***
+
+11. Go to the **Materials** folder and press **Add/Import | Material**.
+
+![add new material](../images/addMaterial.jpg)
