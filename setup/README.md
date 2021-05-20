@@ -14,7 +14,7 @@
 
 ***
 
-4. We have different starting templates we can use.  For this 2-D Composite, we will be selecting Film, Television, and Live Events. Press the ??? button.
+4. We have different starting templates we can use.  For this 2-D Composite, we will be selecting Film, Television, and Live Events. Press the **Open Project** button.
 
 ![Epic project type selector](../images/projectType.jpg)
 
