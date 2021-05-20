@@ -22,6 +22,6 @@
 
 5. Select a blank project as we will starting from scratch. Press the **Next** button.
 
-![Epic project type selector](../images/v.jpg)
+![Epic project type selector](../images/blankProject.jpg)
 
 ***
