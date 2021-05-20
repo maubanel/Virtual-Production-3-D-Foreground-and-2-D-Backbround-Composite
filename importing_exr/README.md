@@ -6,5 +6,20 @@
 
 ***
 
-2.  Select an empty composite by pressing the **Empty Comp Shot** button
+2.  Select an empty composite by pressing the **Empty Comp Shot** button.
 ![select empty comp shot](../images/emptyCompShot.jpg)
+
+***
+
+3. Rename this layer **Patio Comp**.
+
+![rename to patio composite](../images/renamePatioComp.jpg)
+
+***
+
+4.  Right click on the **PatioComp** name and select **Add Comp Layer**.
+
+![add comp layer](../images/addCompLayer.jpg)
+
+
+
