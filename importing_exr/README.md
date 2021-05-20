@@ -107,7 +107,14 @@
 
 ***
 
-18. Now we need to tell the software what framerate this scene was shot at.  It is shot in **24 Frames per Second**.  Click on the small arrow and select the correct framerate.
+18. Now we need to tell the software what framerate this scene was shot at.  It is shot in **24 Frames per Second**.  Click on the small arrow and select the correct framerate in the **Framerate Override**.
 
 ![select 24 fps](../images/changeTo24FPS.jpg)
 
+***
+
+19. Now we have imported the clip but we can't view it.  One way of viewing it is by creating a **Media Player**.  But we will not need to as we will include it in a **Sequence** that will play it back.  That is what we will do next.
+ 
+ ***
+
+--- [Next Chapter - Level Sequence Player](../first_sequence/README.md) ------ [Back to Home Page](../README.md)
