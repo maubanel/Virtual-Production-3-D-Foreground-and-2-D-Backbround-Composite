@@ -33,12 +33,19 @@ ct a blank project as we will starting from scratch. Press the **Next** button.
 
 ***
 
-7. You might get a pop up prompting you to update the project.  Please **update** to the latest version.  If you have made a game in Unreal this looks exactly like a blank game project.  So what is different?  Press **Edit | Plugins**.
+7. ou might get a pop up prompting you to update the project.  Please **update** to the latest version. 
+
+![udpate project file](../images/updateProjectFile.jpg)
+
+
+***
+
+8. Y If you have made a game in Unreal this looks exactly like a blank game project.  So what is different?  Press **Edit | Plugins**.
 ![Epic project type selector](../images/lookAtPlugins.jpg)
 
 ***
 
-8. Type in `comp` and see that there are some plugins installed that are required for compositing.  If at any point you do not see the feature that is mentioned in this walk through it is most likely because you are missing a plugin.  In this case all of the plugins we need *should* be pre-installed in this default project type.
+9. Type in `comp` and see that there are some plugins installed that are required for compositing.  If at any point you do not see the feature that is mentioned in this walk through it is most likely because you are missing a plugin.  In this case all of the plugins we need *should* be pre-installed in this default project type.
 
 ![list of ue4 plugins](../images/preinstalledPlugins.jpg)
 
