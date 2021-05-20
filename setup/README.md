@@ -38,4 +38,7 @@ ct a blank project as we will starting from scratch. Press the **Next** button.
 
 ***
 
-8. 
+8. Type in `comp` and see that there are some plugins installed that are required for compositing.  If at any point you do not see the feature that is mentioned in this walk through it is most likely because you are missing a plugin.  In this case all of the plugins we need *should* be pre-installed in this default project type.
+
+![list of ue4 plugins](../images/preinstalledPlugins.jpg)
+
