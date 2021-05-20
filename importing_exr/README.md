@@ -21,5 +21,14 @@
 
 ![add comp layer](../images/addCompLayer.jpg)
 
+***
 
+5. Now we will be adding the background film plate that was shot in camera.  Press the "Add Material Plate** button.
 
+![add media plate](../images/addMediaPlateLayer.jpg)
+
+***
+
+6. Now it looks like nothing happened.  In the Unreal editor a lot is hidden inside these little arrows that expand.  Press the **Arrow** next to the name of the comp and you will see the media plate.  Rename it to `BackgroundPlate`.
+
+![rename background plate](../images/renameBackgroundPlate.jpg)
