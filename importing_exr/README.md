@@ -117,4 +117,10 @@
  
  ***
 
+20.  First lets save our progress with **File | Save All**.
+
+![select 24 fps](../images/saveAll.jpg)
+ 
+ ***
+
 --- [Next Chapter - Level Sequence Player](../first_sequence/README.md) ------ [Back to Home Page](../README.md)
