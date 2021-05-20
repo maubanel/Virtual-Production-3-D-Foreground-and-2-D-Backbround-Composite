@@ -11,3 +11,9 @@
 3.  Install UE4 4.26.XX (any version of 4.26 should work).  We will be working in 4.26 for the remainder of the class and will not be updating to any new versions.  This can found in the **Unreal Engine | Library** folder.
 
 ![Epic Games Launcher](../images/UE4_Launcher.jpg)
+
+***
+
+4. 
+
+![Epic project type selector](../images/projectType.jpg)
