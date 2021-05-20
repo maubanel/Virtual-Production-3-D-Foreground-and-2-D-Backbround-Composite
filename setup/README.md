@@ -29,4 +29,13 @@ ct a blank project as we will starting from scratch. Press the **Next** button.
 
 6. Leave the settings at default and select a local folder to store your projetc.  This will create a folder with the name of the project you entered.  I called mine `TwoDComposite`.  No spaces can be used in a project name. Make sure you **do not** store this on a cloud based folder this needs to be on your local hard drive.
 
-![Epic project type selector](../images/projectSettings.jpg)projectSettings
+![Epic name and save project](../images/projectSettings.jpg)
+
+***
+
+7. You might get a pop up prompting you to update the project.  Please **update** to the latest version.  If you have made a game in Unreal this looks exactly like a blank game project.  So what is different?  Press **Edit | Plugins**.
+![Epic project type selector](../images/lookAtPlugins.jpg)
+
+***
+
+8. 
