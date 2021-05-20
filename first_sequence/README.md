@@ -39,3 +39,21 @@
 7. Select the **BackgroundPlate** in the World Outliner.  Drag the newly created media texture to the **Inputs | Media Source**.  Notice when you drag it on top of it the area has a green dashed outline.  This means that it will accept this actor to point the texture to this compositing level.
 
 ![add media source](../images/addMediaTextureToBackgroundPlate.jpg)
+
+***
+
+8. If you click on **BackgroundPlate** in the World Outliner, you will see a window pop up, but it is black.  We still haven't pointed our clip to this compositing layer.  We also have not told the compositor how to display the image.
+
+![blank background plate](../images/emptyBackground.jpg)
+
+***
+
+9. Go to the world outliner and lets set up the composite so it can display our newly created background.  Select **PatioComp** the press the **+** button in **Transform/Compositing Passes**.
+
+![add compositing pass](../images/addTransformPass.jpg)
+
+***
+
+10. Now all compositing happens through a material.  Lets create one but first add a **Materials** folder to the project.
+
+![add materials folder](../images/addMaterialsFolder.jpg)
