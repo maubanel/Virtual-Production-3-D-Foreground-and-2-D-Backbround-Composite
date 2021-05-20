@@ -18,6 +18,24 @@
 
 ***
 
-4.  Press the **+ Media** and add the **Scene0010** media source to the track.
+4.  Press the **+ Media** and add the **Scene0010** image media source to the track.
 
 ![add scene 10 to track](../images/addScene10ToTrack.jpg)
+
+***
+
+5. Now we cannot play back the image media source directly.  We have to put it through a **Media Texture**.   Go to the **Scenes | Scene0010** folder and click on the **Add/Import | Media | Media Texture** element. 
+
+![add media texture](../images/addMediaTexture.jpg)
+
+***
+
+6. Rename the media texture to: `Scene0010MediaTexture`.
+
+![rename media texture](../images/renameMediaTexture.jpg)
+
+***
+
+7. Select the **BackgroundPlate** in the World Outliner.  Drag the newly created media texture to the **Inputs | Media Source**.  Notice when you drag it on top of it the area has a green dashed outline.  This means that it will accept this actor to point the texture to this compositing level.
+
+![add media source](../images/addMediaTextureToBackgroundPlate.jpg)
