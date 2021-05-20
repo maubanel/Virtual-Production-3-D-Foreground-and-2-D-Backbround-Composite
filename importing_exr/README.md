@@ -119,7 +119,7 @@
 
 20.  First lets save our progress with **File | Save All**.
 
-![select 24 fps](../images/saveAll.jpg)
+![save all work](../images/saveAll.jpg)
  
  ***
 

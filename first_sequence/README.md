@@ -1,4 +1,11 @@
 ## First Level Sequence
 
-1.  Normally we would use a **Media Player** actor to play the video.  Since we are not using a game engine to play a cut scene we will be just using it to play back a scene.  In UE4 it is called **Sequencer**.  We use this to play back our scene while **Composure** does the compositing.
-Let's start by creating a new folder called **Scenes | Scene0010**.  Then add a **Media | Level Sequence**.  
+1.  Normally we would use a **Media Player** actor to play the video.  Since we are not using a game engine to play a cut scene we will be just using it to play back a scene.  In UE4 it is called **Sequencer**.  This allows us to play back a clip without the media player object.  Go to the **Scenes | Scene0010** folder and click on the **Add/Import | Animation | Level Sequence** element. 
+
+![add a level sequence](../images/levelSequence.jpg)
+
+***
+
+2. Rename the file to `Scene0010Sequence`.
+
+![rename sequence](../images/scene10Sequence.jpg)
