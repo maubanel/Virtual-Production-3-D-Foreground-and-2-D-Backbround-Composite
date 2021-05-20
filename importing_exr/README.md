@@ -47,4 +47,7 @@
 
 ***
 
+9.  Now normally we always import assets through the Unreal interface.  This is the **ONE** exception.  We will be adding the **.exr** files manually into the project and they will **NOT** show up in the browser. Right click on plates and select **Open In Explorer**.
+
+![right click on plates and select open in explorer](../images/showPlatesInExplorer.jpg)
 
