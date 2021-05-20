@@ -81,3 +81,7 @@
 14. Connect the **RGB** pin from **Background** to the **Emmisive Color** pin in **M_Composite**.  This is an emissive texture as there is no scene that this element lives in and there is no light.  So this is a self lit texture otherwise it would appear black.
 
 ![connect emissive color pin](../images/connectToEmissionColor.jpg)
+
+15. Now the material we just created will have no effect untile we press the **Apply** button:
+
+![apply material](../images/applyMaterial.jpg)
