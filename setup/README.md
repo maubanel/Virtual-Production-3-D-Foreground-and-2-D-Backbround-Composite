@@ -49,3 +49,6 @@ ct a blank project as we will starting from scratch. Press the **Next** button.
 
 ![list of ue4 plugins](../images/preinstalledPlugins.jpg)
 
+
+--- [Next Chapter - Basic Comp](../basic_comp/README.md) --- [Back to Home Page](../README.md)
+
