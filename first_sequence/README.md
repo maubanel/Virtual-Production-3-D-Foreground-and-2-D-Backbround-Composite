@@ -85,3 +85,10 @@
 15. Now the material we just created will have no effect untile we press the **Apply** button:
 
 ![apply material](../images/applyMaterial.jpg)
+
+16. Now we can  select **PatioComp** in the World Outliner and add the new material to the **Transform/Compositing Passes** material slot. 
+
+![apply material](../images/addMaterialToComposure.jpg)
+
+***
+
