@@ -23,7 +23,7 @@
 
 ***
 
-5. Now we will be adding the background film plate that was shot in camera.  Press the "Add Material Plate** button.
+5. Now we will be adding the background film plate that was shot in camera.  Press the **Add Media Plate** button.
 
 ![add media plate](../images/addMediaPlateLayer.jpg)
 
