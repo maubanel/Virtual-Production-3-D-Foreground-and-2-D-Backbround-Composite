@@ -35,7 +35,16 @@
 
 ***
 
-7.  This sequence is based on **Epic's** [documentation](https://docs.unrealengine.com/en-US/WorkingWithMedia/MediaFramework/HowTo/ImgMediaSource/index.html).  First lets create a new folder called `Plates`. First to see our folders in our project click on the little arrow in the **Content Browswer** tab.  Right click on **Content** and select **Add Folder**.
+7.  This sequence is based on **Epic's** [documentation](https://docs.unrealengine.com/en-US/WorkingWithMedia/MediaFramework/HowTo/ImgMediaSource/index.html).  First lets create a new folder called `Plates`. First to see our folders in our project click on the little arrow in the **Content Browswer** tab.  Right click on **Content** and select **New Folder**.
 
-![rename background plate](../images/addPlateFolder.jpg)
+![add new folder](../images/addPlateFolder.jpg)
+
+***
+
+8. Rename the folder to **Plates**.
+
+![rename folder to plates](../images/renameToPlates.jpg)
+
+***
+
 
