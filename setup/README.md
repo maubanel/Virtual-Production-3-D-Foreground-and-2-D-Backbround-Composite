@@ -20,7 +20,8 @@
 
 ***
 
-5. Select a blank project as we will starting from scratch. Press the **Next** button.
+5. Sele
+ct a blank project as we will starting from scratch. Press the **Next** button.
 
 ![Epic select blank project](../images/blankProject.jpg)
 
