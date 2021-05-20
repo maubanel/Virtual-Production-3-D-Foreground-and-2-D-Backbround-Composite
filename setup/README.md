@@ -26,5 +26,6 @@
 
 ***
 
-6. 
-![Epic project type selector](../images/blankProject.jpg)projectSettings
+6. Leave the settings at default and select a local folder to store your projetc.  This will create a folder with the name of the project you entered.  I called mine `TwoDComposite`.  No spaces can be used in a project name. Make sure you **do not** store this on a cloud based folder this needs to be on your local hard drive.
+
+![Epic project type selector](../images/projectSettings.jpg)projectSettings
