@@ -63,3 +63,21 @@
 11. Go to the **Materials** folder and press **Add/Import | Material**.
 
 ![add new material](../images/addMaterial.jpg)
+
+***
+
+12. Rename this material to `M_Composite`.  Double click to open the **Material Editor**.  Right mouse click in the empty graph and type `TextureSampleParameter2D`.  Select this node.
+
+![add new material parameter 2d](../images/addTexture2D.jpg)
+
+***
+
+13.  Rename this node to `Background`.
+
+![rename node to background](../images/renameToBackground.jpg)
+
+***
+
+14. Connect the **RGB** pin from **Background** to the **Emmisive Color** pin in **M_Composite**.  This is an emissive texture as there is no scene that this element lives in and there is no light.  So this is a self lit texture otherwise it would appear black.
+
+![connect emissive color pin](../images/connectToEmissionColor.jpg)
