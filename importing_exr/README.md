@@ -73,5 +73,18 @@
 
 13.  The folders will look empty.
 
-![do not import exr files](../images/foldersLookEmpty.jpg)
+![folder will look empty](../images/foldersLookEmpty.jpg)
+
+***
+
+14.  Right click on **Content** and add two folders **Scenes | Scene0010**.
+
+![add scene 10 folder](../images/addScene10Folder.jpg)
+
+***
+
+15. Now we will be importing these individual .exr frames as a single streamable movie.  Right click on the **Scene0010** folder and press the **Add Import | Media | Image Media Source**.
+
+![add image media source](../images/addMediaSource.jpg)
+
 
