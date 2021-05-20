@@ -9,3 +9,15 @@
 2. Rename the file to `Scene0010Sequence`.
 
 ![rename sequence](../images/scene10Sequence.jpg)
+
+***
+
+3. Press the **+ Track |  Media Track** to the sequence you just created.
+
+![add media track to sequence](../images/addMediaTrack.jpg)
+
+***
+
+4.  Press the **+ Media** and add the **Scene0010** media source to the track.
+
+![add scene 10 to track](../images/addScene10ToTrack.jpg)
