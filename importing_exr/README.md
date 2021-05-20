@@ -32,3 +32,10 @@
 6. Now it looks like nothing happened.  In the Unreal editor a lot is hidden inside these little arrows that expand.  Press the **Arrow** next to the name of the comp and you will see the media plate.  Rename it to `BackgroundPlate`.
 
 ![rename background plate](../images/renameBackgroundPlate.jpg)
+
+***
+
+7.  This sequence is based on **Epic's** [documentation](https://docs.unrealengine.com/en-US/WorkingWithMedia/MediaFramework/HowTo/ImgMediaSource/index.html).  First lets create a new folder called `Plates`. First to see our folders in our project click on the little arrow in the **Content Browswer** tab.  Right click on **Content** and select **Add Folder**.
+
+![rename background plate](../images/addPlateFolder.jpg)
+
