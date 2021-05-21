@@ -88,7 +88,22 @@
 
 16. Now we can  select **PatioComp** in the World Outliner and add the new material to the **Transform/Compositing Passes** material slot. 
 
-![apply material](../images/addMaterialToComposure.jpg)
+![assign material to transform](../images/addMaterialToComposure.jpg)
 
 ***
 
+17. Now this original camera shot the footage at 24 frames per second.  Our sequence default is 30.  Correct this now:
+
+![change framerate to 24fps](../images/twentyFourFPS.jpg)
+
+***
+
+18.  Now we still have not told **Sequencer** that the movie we imported ties to the **Media Texture**. Right click on the sequence **Media** track and select **Edit Section**.  Now make sure the **Media Source** has `Scene0010` added to it and link the **Media Texture** to `Scene0010MediaTexture`.
+
+![attach texture to media in sequence](../images/linkMediaTexture.jpg)
+
+***
+
+19. Now we can see that the media texture is no longer black and we can see the clip behind it:
+
+![media texture now working](../images/mediaTextureLinked.jpg)
