@@ -24,7 +24,14 @@
 
 ***
 
-5. 
+5. UE4 is smart enough to know that this character has a mesh, a material, a skeleton and many other assets needed for it to run.  We will need all the attached components so we will just select **OK**.
+
+![migrate all related files](../images/ue4SelectsAllNeedeFiles.jpg)
+
+***
+
+
+
 
 
 
