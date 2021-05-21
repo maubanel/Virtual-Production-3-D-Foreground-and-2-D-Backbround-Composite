@@ -122,4 +122,4 @@
 
 ***
 
---- [Next Chapter - Level Sequence Player](../first_sequence/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Level Sequence Player](../cg_character/README.md) ------ [Back to Home Page](../README.md)
