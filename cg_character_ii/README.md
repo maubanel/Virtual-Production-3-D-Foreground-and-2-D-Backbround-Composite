@@ -62,9 +62,24 @@
 
 ***
 
-11. Now we need to change the materail type.  First we want to make sure that this material is the LAST one to run.  So we don't want this material to composite the scene before all other materials have run.  We also want to set the material decal blend mode to transluscent so it can apply an alpha.  Change **Decal Blend Mode** to `Translucent`.  Make sure **Blend Mode** is still `Opaque`.  Change the **Material Domain** to `Post Process`.
+11. Now we need to change the materail type.  First we want to make sure that this material is the LAST one to run.  So we don't want this material to composite the scene before all other materials have run.  We also want to set the material decal blend mode to transluscent so it can apply an alpha.  Change **Decal Blend Mode** to `Translucent`.  Make sure **Blend Mode** is still `Opaque`.  Change the **Material Domain** to `Post Process`. Press the **Apply** button.
 
 ![chnage to traslucent and post process on material](../images/translucentPostMaterial.jpg)
+
+***
+
+12. Now go back to the **Patio Comp** in World Outliner and open up the comp material in the **Transform Passes**.  You will have a new node selection called **Mannequin** where you will select the comp layer for the CG actor which I called **Actor**.
+
+![add transform passes for mannequin layer](../images/SelectCompLayer.jpg)
+
+***
+
+13. Now we need to tell the **Actor** comp layer that we want to ONLY use the layer and not the entire CGI scene.  Select the **Actor** comp layer and press the **Composure | Input | Capture Actor | +** button.
+
+![add a capture actor to actor comp layer](../images/captureActors.jpg)
+
+***
+
 
 
 
