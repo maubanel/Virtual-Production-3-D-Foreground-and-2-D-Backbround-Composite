@@ -113,7 +113,7 @@
 
 19. Now this sphere is pointing outwards and we are inside it.  So the surface normals of the sphere are pointing in the wrong direction.  We do not need to take this into Maya and edit it we can just select the **Material Node** and set the **Two Sided** radio to `Selected`.  As usual you **ALWAYS** need to press **Apply** so that the material is processed and works as you programmed.
 
-![make material two sided](../images/woSidedMat.jpg)
+![make material two sided](../images/twoSidedMat.jpg)
 
 ***
 
