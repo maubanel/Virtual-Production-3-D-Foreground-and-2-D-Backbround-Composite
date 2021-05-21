@@ -105,4 +105,4 @@
 
 ***
 
---- [Next Chapter - Mannequin Animation](../mannequin_anim/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Add Animation to Camera and Mannequin](../mannequin_anim/README.md) ------ [Back to Home Page](../README.md)
