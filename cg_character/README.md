@@ -49,6 +49,31 @@
 
 ***
 
+9. Now in an empty level Unreal adds a bunch of default items we will not need.  Control Select **Atmospheric Fog, Player Start, Sky Sphere, Skylight, SphereReflectoinCapture** and right mouse click and select **Edit | Delete** to remove these from the scene.
+
+![remove unneeded level actors](../images/deletePeripheralObjects.jpg)
+
+***
+
+10. Now we need to add a camera that is the same as the one that shot the scene.  Add a **Cinematic | Cine Camera Actor** to the scene.  Rotate and position it so it frames the mannequin.  Notice that when you select this camera in the world outliner you will see the viewport. Rename this actor to `CineCamera`.
+
+![add cine cam](../images/addCineMac.jpg)
+
+***
+
+11. Now we need to match the key camera settings so that the virtual camera is as identical as possible to the real one used. First adjust the sensor size.  Go to **Filmback** and select `Custom...`. Change the **Sensor Width** to `35.599998 mm` and **Sensor Height** to `20.025 mm`.  Notice that the **Sensor Aspect Ration** is updated. In **Focus Settings** set the **Manual Focus Distance** to `426.0001`.  Set the **Current Focal Length** to `35.085999` and **Current Aperture** to `9.0`.
+
+![match camera settings](../images/matchCamSettings.jpg)
+
+***
+
+
+12.  Now we need to tell composure what cine camera to use.  Click on **PatioComp** and click on **Input | Target Camera Actor** and select `CineCamera`.
+
+![add cinematic camera to composite](../images/cineCamToComp.jpg)
+
+***
+
 
 
 
