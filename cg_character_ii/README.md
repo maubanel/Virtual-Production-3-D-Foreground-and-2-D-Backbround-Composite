@@ -74,23 +74,35 @@
 
 ***
 
-13. Now we need to tell the **Actor** comp layer that we want to ONLY use the layer and not the entire CGI scene.  Select the **Actor** comp layer and press the **Composure | Input | Capture Actor | +** button.
+13. Now we need to tell the **Actor** comp layer that we want to ONLY use the layer and not the entire CGI scene.  Select the **Actor** comp layer and press the **Composure | Input | Capture Actors | +** button.
 
 ![add a capture actor to actor comp layer](../images/captureActors.jpg)
 
 ***
 
+14.  Select the **Capture Actor | Actor Set** and change **None** to `Mannequin` the layer we just created.
 
+![add a capture actor to actor comp layer](../images/selectMannequinLayer.jpg)
 
+***
 
+15. Now we need to output the comp so we can see it in the game window.  Go to **Patio Comp** and select **Outputs** and press the **+** button if there is no output layer.  Then set **OutputPass_1** to `PlayerViewportCompositingOutput`.
 
+![add otuput pass for comp](../images/addComposureOutput.jpg)
 
+***
 
+16. Now we can select the **Actor** comp layer in the World Outliner and now the comp should ONLY show the mannequin on a black keyable background!
 
+![check player is isolated](../images/checkWork.jpg)
 
+***
 
+17.  Now when you select the **PatioComp** in the world outliner you should see the player composited on top of the CG background!  Isn't that amazing! Next up we will get player animation running.
+
+![pation comp should show player on top of background](../images/ourFirstComposite.jpg)
 
 
 ***
 
---- [Next Chapter - Level Sequence Player II](../cg_character_ii/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Mannequin Animation](../manequin_anim/README.md) ------ [Back to Home Page](../README.md)
