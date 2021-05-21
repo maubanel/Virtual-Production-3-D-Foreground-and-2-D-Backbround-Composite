@@ -112,7 +112,7 @@
 
 20.  Add a **Composite** folder to the **World Outliner** then drag the **BackgroundPlate** and **PatioComp** into this folder.
 
-![add composite folder and add objects](../images/mediaTextureLinked.jpg)
+![add composite folder and add objects](../images/addCompositeFolder.jpg)
 
 ***
 
