@@ -30,9 +30,32 @@
 
 ***
 
+6. Now the windows finder appears.  The important thing to do in Migrating is regarding the folder you put it in.  It has to be in the new project you are migrating to in the **Content** folder.  Do not put it in a higher or lower folder in the hei
+
+![select content folder](../images/selectContentFolder.jpg)
+
+***
+
+7. Now reopen our compositing project and notice that the mannequin succesfully imported with all the required assets to render the full mannequin.
+
+
+![mannequin imported](../images/mannequinImported.jpg)
+
+***
+
+8. Add the mannequin to the level.  This is a skeletal mesh called **Content | Mannequin | Character | Mesh | SK_Mannequin_Female**.  Make sure to put it in Transform Location `0, 0, 0`, Rotation `0, 0, 0` and Scale `1, 1, 1`.
+
+![mannequin imported](../images/addMannequinToLevel.jpg)
+
+***
 
 
 
 
+
+
+
+
+***
 
 --- [Next Chapter - Level Sequence Player](../first_sequence/README.md) ------ [Back to Home Page](../README.md)
