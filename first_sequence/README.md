@@ -122,6 +122,4 @@
 
 ***
 
-
-
 --- [Next Chapter - Add CG Character To Composite](../cg_character/README.md) ------ [name the new project](../README.md)

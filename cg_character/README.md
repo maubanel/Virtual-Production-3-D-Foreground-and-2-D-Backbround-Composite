@@ -74,13 +74,53 @@
 
 ***
 
+13. Now lets add a sphere to represent the sky.  The team that shot this patio scene also shot a 360 panorama that we can use for image based lighting (IBL).  So our sky will be pure white to not add any effects to the IBL. Go to **Basic | Sphere** and add one to the level.   Make sure to put it in Transform Location `0, 0, 0`, Rotation `0, 0, 0` and Scale `1, 1, 1`
 
-
-
-
-
+![add sphere for sky](../images/addSphereForSky.jpg)
 
 
 ***
 
---- [Next Chapter - Level Sequence Player](../first_sequence/README.md) ------ [Back to Home Page](../README.md)
+14. Now we need to use this as the sky so we need to make it a **LOT** larger. Change the **Transform | Scale** to `1000, 1000, 1000`.  Now the object is very large. Also rename the sphere to `Sky Sphere` and take the time to organize all your scene objects into logically named folders.  
+
+![scale sky sphere](../images/scaleSkySphere.jpg)
+
+***
+
+15.  Select the **Materials** folder and press **Add/Import** and create a new **Material** and call it `M_Sky`.
+
+![add sky material](../images/addMSkyMaterial.jpg)
+
+***
+
+16.  Open the new material and right mouse click on the open graph.  Add a new **Const 3 Vector** node to the graph.
+
+***
+
+![add const 3 vectuor](../images/addCosnt3Vector.jpg)
+
+17. Now double click on the black color inside this 3 color node.  Set the **RGB** to `1, 1, 1` which makes this color white.  Press the **OK** button.
+
+![make color white](../images/changeToWhite.jpg)
+
+***
+
+18.  Now connect the output of the white color to the **Base Color** and **Emmissive Channel**.  We will create a base color of white and make sure that the sky is emissive (it is lit) as this is a daytime shot on our plate.
+
+![connect material pins](../images/connectMatNodes.jpg)
+
+***
+
+19. Now this sphere is pointing outwards and we are inside it.  So the surface normals of the sphere are pointing in the wrong direction.  We do not need to take this into Maya and edit it we can just select the **Material Node** and set the **Two Sided** radio to `Selected`.  As usual you **ALWAYS** need to press **Apply** so that the material is processed and works as you programmed.
+
+![make material two sided](../images/woSidedMat.jpg)
+
+***
+
+20.  Now drag the **M_Sky** material into the **Material** slot of **SkySphere** in game. Notice that the sky now turns white!
+
+![add material to sky](../images/setSkyMaterial.jpg)
+
+***
+
+--- [Next Chapter - Level Sequence Player II](../cg_character_ii/README.md) ------ [Back to Home Page](../README.md)
