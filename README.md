@@ -5,3 +5,4 @@
 * [Level Sequence Player](first_sequence/README.md)
 * [Add CG Character To Composite](cg_character/README.md)
 * [Add CG Character To Composite II](g_character_ii/README.md)
+* [Add Animation to Mannequin](mannequin_anim/README.md)
