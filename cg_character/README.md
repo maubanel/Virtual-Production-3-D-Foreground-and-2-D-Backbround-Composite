@@ -123,4 +123,4 @@
 
 ***
 
---- [Next Chapter - Level Sequence Player II](../cg_character_ii/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Add CG Character To Composite II](../cg_character_ii/README.md) ------ [Back to Home Page](../README.md)
