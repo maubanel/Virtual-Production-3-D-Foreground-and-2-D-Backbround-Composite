@@ -118,8 +118,10 @@
 
 21. Now the sequence has 488 frames in it. So click on the bottom left and set the length to `0488` and the length displayed to the user as `0644`. Unreal right now does not expand the clip to fit the length.  So click the begining and end to expand it to fit between **0** and **488**.  Now select **PatioComp** in World Outliner and press the **Play** button.  You now see that the movie that was shot play!
 
-![addjust clip and play](../images/adjustClip.jpg)
+![create new third person game project](../images/adjustClip.jpg)
 
 ***
 
---- [Next Chapter - Add CG Character To Composite](../cg_character/README.md) ------ [Back to Home Page](../README.md)
+
+
+--- [Next Chapter - Add CG Character To Composite](../cg_character/README.md) ------ [name the new project](../README.md)
