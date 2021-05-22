@@ -42,6 +42,23 @@
 
 ***
 
+8. Now we need to add an animation to our character.  Drag the **Mannequin** from the **World Outliner** to the timeline in **Sequencer** to add it as a layer.  Double check that **Location Y** is `-140` and **Rotation Z** is `5`. This is the local offset so that the mocap data walks in the right direction from the right starting point that matches the camera track in the scene which is *following* to mannequin as you will see in a moment.
+
+![drag mannequin to sequencer](../images/dragManneqToSeq.jpg)
+
+***
+
+9.  Create a new folder to hold the animation inside **Content | Mannequin | Character** and call it `Animation`.  Press the **Add/Import** button and select **Import Asset**.  Then find the **mocap_patio_walk.FBX**.  Press the **Open** button.
+
+![import player animation into newly created folder](../images/importManAni.jpg)
+
+***
+
+10. This brings up the **FBX Import Option** pop up.  Now the only thing we need to assign is a **skeleton**.  Every animation is solved to a specific skeleton topography and cannot be shared without retargeting.  This is designed for the UE4 skeleton to assign to **Skeleton** `UE4_Mannequin_Skeleton`.
+
+![assign skeleton](../images/assignSkeleton.jpg)
+
+***
 
 
 
@@ -51,5 +68,7 @@
 
 
 
+
+***
 
 --- [Next Chapter - Add CG Character To Composite II](../cg_character_ii/README.md) ------ [Back to Home Page](../README.md)
