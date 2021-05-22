@@ -66,10 +66,50 @@
 
 ***
 
+12.  Open the texture.  Notice that it is a rectalinear projection.  If you want to create this you would need to either have a 360 camera or shot with a still camera at alll angles to capture a 360 scene.  
+
+![look at hdr texture](../images/hdrTexture.jpg)
+
+***
+
+13.  Now go to **Place Actors | Lights | Sky Light** and drag it into the scene. 
 
 
+![add skylight to level](../images/addSkylight.jpg)
 
+***
 
+14.  Normally in the game we would have a blue sky with clouds and a sun.  We would use this virtual sky to drive the skylight for ambient lighting.  In this case our sky is pure white and we don't want to blast the player with light.  So we are using a cube map instead (technically this is a spherical map). Now in the **Source Type** of the Sky Light select `SLS Specified Cubemap`.  Then below select the `PatioSceneHDR` texture we just looked at. Now look how the player is being lit with image taken from the scene of the shoot.
+
+![add cube map to skylight](../images/addCubeMap.jpg)
+
+***
+
+15.  Lets make two adjustements.  Change the **Cubemap Resolution** to `256` and the **Sky Distance Threshold** to `50`. 
+
+![adjust resolution and threshold](../images/adjustSkyLight.jpg)
+
+***
+
+16.  Now we want the sunlight and skylight to have a general architecture that resembles the scene shot.  So there is a walkway with a roof on it so duplicate the floor and raise it for the roof.  Use the video clip as reference for how high above the head (guess if you have to).
+
+![duplicate floor for ceiling](../images/duplicateFloorForCeiling.jpg)
+
+***
+
+17. Now go back tot he **Sequence** and scrub until the player is at the edge of the shadow.  Now adjust the roof so that your roof line matches the one in the movie clip.
+
+![adjust shadow line](../images/adjustRoofShadow.jpg)
+
+***
+
+18. Rename the roof to `Ceiling` and make sure it is in the **Patio Geo** folder (make one if you need to for all the level geometry).  Now duplicate the **Ceiling** and rotate it 90 degrees for the back wall. Rename it 1Back Wall`.
+
+ ![duplicate floor for back wall](../images/backWall.jpg)
+
+***
+
+19. 
 
 
 
