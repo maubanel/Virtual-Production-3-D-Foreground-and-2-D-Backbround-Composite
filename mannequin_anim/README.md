@@ -31,8 +31,8 @@
 
 ***
 
-
-
+6.  Now make sure the **CineCamera** has a **Camera Component** and its transform has keyframes for **Location** and **Rotation**.
+![make sure camera has translation and rotation data](../images/translationAndRotationCamTrack.jpg)
 
 ***
 
