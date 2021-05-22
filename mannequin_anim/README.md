@@ -78,20 +78,11 @@
 
 ***
 
-14.  The capture is longer than we need.  The original edit of this piece has the animation starting at frame `17`.  Drag the animation back so that when you scrub to timeline **0** that it is at frame `17` of the animation.
+14.  The capture is longer than we need.  The original edit of this piece has the animation starting at frame `17`.  Drag the animation back so that when you scrub to timeline **0** that it is at frame `17` of the animation. Trim the length of the mocap animation to match the length of the clip at the begining and end. Next up lets add a shadow so they mannequin's shadow *shows up* in the 2-D clip.
 
 ![slip animation to frame 17](../images/slipAnimToFrame17.jpg)
 
 
-
-
-
-
-
-
-
-
-
 ***
 
---- [Next Chapter - Add CG Character To Composite II](../cg_character_ii/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Add Shadow](../shadow/README.md) ------ [Back to Home Page](../README.md)
