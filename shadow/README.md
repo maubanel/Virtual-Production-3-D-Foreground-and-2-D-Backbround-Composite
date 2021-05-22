@@ -43,9 +43,60 @@
 
 ***
 
-8. 
+8. Now select the **Shadows** composite layer in the World Outliner and press **Input | Capture Actors +** button 3 times.
+
+![add three capture actor layers to shadows](../images/threeCaptActorLayersShadows.jpg)
+
+***
+
+9. Now we can assign the layers that will be seen in the shadow comp layer.  Add to **Input | Capture Actors | ActorSet** `Mannequin, Floor, Skyspehere` to the three slots.
+
+![assign three shadow slots](../images/assignShadowLayers.jpg)
+
+***
+
+10.  Now I cannot see a shadow on the ground.  That is because the sky sphere is so bring that it is filling in the shadow from our directional light.  So go to the **Sky Sphere** in World Outliner and turn **Lighting | Cast Shadow** off.
+
+![turn off sky sphere shadow cast](../images/turnOffSkyShadow.jpg)
+
+***
+
+11. Now our mannequin is casting a nice soft shadow on the ground.
 
 
+![humanoid shadow cast on ground](../images/shadowOnGround.jpg)
+
+***
+
+12.  Repeat this for the **NoShadows** comp layer but just include the mannequin adn the sky box.  This will have exactly the same thing without a shadow.
+
+![no shadow repeat](../images/noShadowsComp.jpg)
+
+***
+
+13.  Now open up **M_Composite** and add two **TextureSampleParameter2D** nodes calling one **Shadow** and the other **No Shadow**.  Drag from the RGBA pin and select a **Divide** node.  We will be dividing the NoShadow layer into the Shadow layer.
+
+![add two texture layers and divide node to composite material](../images/addShadowNoShadowToMComposite.jpg)
+
+***
+
+14. Now put the **Shadow RGBA** pin into the **A** side of the **Divide** node.  Put the **No Shadow RGBA** pin into the **B** side.  Take the output of the **Divide** node and add a **Power(x, 2)** node.
+
+![square divided nodes](../images/divideSquareShadowLayers.jpg)
+
+***
+
+15. We will temporarilly take the output of the **Power** node and plug it into the **Emissions** channel in the material so we can see what this does.
+
+![preview power node with divide](../images/visualizeDividePower.jpg)
+
+***
+
+16.  This kind of removes the player and sharpens the shadow.  Rembemer if we multiply this the white does nothing but black will darken pixels. Since we squared the last node values might go above **1.0**.  So we add a **Saturate** node to make sure that the values do not exceed 1.  No visual difference glows can happen at edges if you overload an emmissive channel (like a glowing lightbulb).
+
+![saturate squared value](../images/addSaturateNode.jpg)
+
+***
 
 
 
