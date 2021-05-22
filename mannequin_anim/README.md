@@ -18,7 +18,7 @@
 
 ***
 
-4. Pick the file **trackedCam.fbx**.
+4. Pick the file **tracked_cam.fbx**.
 
 ![select camera track fbx](../images/trackedCamFBX.jpg)
 
