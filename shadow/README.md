@@ -98,15 +98,21 @@
 
 ***
 
+17.  Take the output of the **Saturate** node and add a **Multiply** node.
 
+![saturate multiply node](../images/addMultiplyToShadow.jpg)
 
+***
 
+18.  Now multiply the **Background** by the **Saturate** node and reconnect the **Over** node to the **Emmisions** channel.
 
+![multiply saturate and background](../images/nopictakenmissing.jpg)
 
+***
 
+19.  Now we have a beautiful shadow in the level.  It looks like we projected it onto the ground in the original set!!!  We have one major problem.  Our shadow casts a shadow on the shadow, which doesn't make sense. In our next section we will address this.
 
-
-
+![player shadow issue](../images/shadowAndIssue.jpg)
 
 ***
 
