@@ -24,10 +24,12 @@
 
 ***
 
+5.  Leave the defaults in the pop-up and select the **Import** button.
+
+![leave default and press import](../images/leaveDefaultImport.jpg)
 
 
-
-
+***
 
 
 
