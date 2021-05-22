@@ -85,4 +85,4 @@
 
 ***
 
---- [Next Chapter - Add Shadow](../shadow/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Lighting and Scene Geometry](../shadow/README.md) ------ [Back to Home Page](../README.md)
