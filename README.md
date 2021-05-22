@@ -8,3 +8,4 @@
 * [Add Animation to Camera and Mannequin](mannequin_anim/README.md)
 * [Lighting and Scene Geometry](light_geo/README.md)
 * [Add Shadow](shadow/README.md)
+* [Add Shadow Matte](shadow_matte/README.md)
