@@ -1,10 +1,24 @@
 ## Add Shadow
 
-1.  Now lets look at the lighting in our scene.  First, we need to adjust our **Directional Light** which in UE4 represents the **Sun**.  This light's location is irrelevant as its light rays extend to infinity.  What we want to do is match the direction of the sun in the scene that was shot.  We can look at the shadow in the scene as well as the texture used in the **Skylight** as a hint.  Enter the **Transform | Rotation** to be `-179.9, -73.99, -154.91` for **X, Y & Z**. Now our character is moving and we are not baking our lights so lets make the **Directional Light** `Movable`.
+1. Now our current scene does not factor in the ceiling.  We want the player's light to be affected by it.  We will need to add this to our **Actor** layer comp.  Lets start by select the **Ceiling** object in the W and going to the **Layers** tab and right clicking creating a new layer with this object.  Name it `Ceiling`.  
 
-![adjust sunlight](../images/adjustSunToMatchScene.jpg)
+![adjust ceiling to self named layer](../images/addCeilingToOwnLayer.jpg)
 
 ***
+
+2.  Now open up the **Composure** tab and select the **Actor** layer. Go to **Input | Capture Actors** and press **+**.  Then select the new **Ceiling** layer to add to this scene so that it impacts the lighting.
+
+![add ceiling to actor comp layer](../images/addCeilingToActingLayerOnComp.jpg)
+
+***
+
+3.  You will notice a small difference when the player goes into and from shadows when you scrub the scene.
+
+![dipping in and out of shadow](../images/dipsIntoShadow.jpg)
+
+***
+
+Now we need to add a layer to our composite with the player, the ground and shadow and the white sky sphere.  We also need a layer with just the player and the sky sphere but no ground/or shadow. 
 
 
 
