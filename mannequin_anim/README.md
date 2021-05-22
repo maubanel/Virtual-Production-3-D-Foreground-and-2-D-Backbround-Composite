@@ -1,8 +1,8 @@
 ## Add Animation to Camera and Mannequin
 
-1.  We will use the UE4 supplied mannequin to our game.  To do this we will have to migrate it from another project.  Press **File | Save All** and run the **Epic Launcher** again.  Create a new project and this time select the **Game Type**.  Then select **Third Person** template as this will contain the player mannequin.
+1.  Now we need to animate the camera and the actor in the scene so it matches the camear path originally shot.  Make sure you have selected **Scene0010Sequence** and press **+ Track** and select a **Camera Cut Track**.
 
-![create new composite](../images/thirdPersonGameProject.jpg)
+![create new composite](../images/addCameraCutTrack.jpg)
 
 ***
 
