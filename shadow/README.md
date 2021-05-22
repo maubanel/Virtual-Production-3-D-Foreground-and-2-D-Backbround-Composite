@@ -18,7 +18,38 @@
 
 ***
 
-Now we need to add a layer to our composite with the player, the ground and shadow and the white sky sphere.  We also need a layer with just the player and the sky sphere but no ground/or shadow. 
+4. Now we need to add a layer to our composite with the player, the ground and shadow and the white sky sphere.  We also need another layer with just the player and the sky sphere but no ground/or shadow. We will then take a difference between them to extract the shadow and project it onto the background plate.  Go to **Composure** and right click on **Patio Comp** and add a third **Layer Element**.
+
+
+![add third layer to comp](../images/addThirdLayerToComp.jpg)
+
+***
+
+5. This will be a CG layer. Name it `Shadows`.
+
+![select another CG layer](../images/secondCGLayer.jpg)
+
+***
+
+6. Do the same thing again and name this third CD layer `NoShadows`.
+
+![add another third CG layer no shadows](../images/noShadowsLayer.jpg)
+
+***
+
+7. Now lets select the **SkySphere** and create a self-named layer for it as well.
+
+![add sky sphere to self named layer](../images/skySphereLayer.jpg)
+
+***
+
+8. 
+
+
+
+
+
+
 
 
 
