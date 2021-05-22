@@ -60,6 +60,21 @@
 
 ***
 
+11.  Now we can drag the newly imported animation on top th ethe **Mannequin** in the **Sequencer**.  You will see an icon light up and you can drop it there.
+
+![add animation to sequencer](../images/addAnimToSkeleton.jpg)
+
+***
+
+12.  There is a scrub bar in the **Sequencer** timeline that you can scrub.  You should see the mannequin walking across the air.  This is motion captured animatoin and not how we construct it for a game.  The motion capture reflected the speed that the original camera was shot.
+
+![scrub animation track](../images/scrubAnimationTrack.jpg)
+
+***
+
+
+
+
 
 
 
