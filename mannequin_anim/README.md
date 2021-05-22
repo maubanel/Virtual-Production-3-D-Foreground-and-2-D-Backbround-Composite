@@ -36,4 +36,20 @@
 
 ***
 
+7.  Now when you hit play you will notice the camera move.  You should see the camera track appear and the camera moving around it.  Now this doesn't do us much good without animation.  Lets add the mannequin to the scene next.
+
+![play to ensure camera track appears](../images/playCameraTrack.jpg)
+
+***
+
+
+
+
+
+
+
+
+
+
+
 --- [Next Chapter - Add CG Character To Composite II](../cg_character_ii/README.md) ------ [Back to Home Page](../README.md)
