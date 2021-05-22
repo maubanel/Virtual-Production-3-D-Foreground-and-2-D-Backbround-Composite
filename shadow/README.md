@@ -34,13 +34,37 @@
 
 ![move main map to new folder](../images/moveMaps.jpg)
 
+***
 
+7.  Now go the **Edit | Project Settings | Maps & Modes** and change the **Editor Startup Map** and **Game Default Map** to `Main`. This will boot the level up into your working map every time you have to run the software or reboot.
 
+![add main map to project settings](../images/mapsAndModes.jpg)
 
+***
 
+8.  Now our main map is set to the default to load with and our ground is now white.
 
+![see white ground](../images/whiteGround.jpg)
 
+***
 
+9.  Now the ground is not large enough as it stands to cast a shadow from the begining of the animation to the end.  I played around with the scaling and found the **Ground Transform Scale** to be best at `2.5, 1, 2`.
+
+![rescale ground](../images/rescaleGround.jpg)
+
+***
+
+10. So now any frame in the animation should have a very strong shadow.
+
+![harsh player shadow](../images/castHarshShadow.jpg)
+
+***
+
+11. Now the lighting is harsh because the direcitional light is lighting at its angle and there is no light *bouncing* and reflecting back to the mannequin.  This would require ray tracing and a lot more processing power.  So we need to use the **Skylight**.  We will be using image based lighting which is a 360 HDR photo of the scene that was shot at the time of the shoot.  That way we can project light just like the scene did in the camera on the day of the shoot.  Create a **Content | Texutres** folder and **Import** the **PatioSceneHDR.HDR** texture.
+
+![add hdr texture](../images/addPatioHDRTexture.jpg)
+
+***
 
 
 
