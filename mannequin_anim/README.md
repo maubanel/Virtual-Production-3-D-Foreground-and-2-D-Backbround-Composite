@@ -72,7 +72,15 @@
 
 ***
 
+13.  Now we can select our **PatioComp** node and hit the play button and see our scene with camera and character animation!
 
+![play full comp with camera and mannequin animation](../images/playFirstAnimatedComp.jpg)
+
+***
+
+14.  The capture is longer than we need.  The original edit of this piece has the animation starting at frame `17`.  Drag the animation back so that when you scrub to timeline **0** that it is at frame `17` of the animation.
+
+![slip animation to frame 17](../images/slipAnimToFrame17.jpg)
 
 
 
