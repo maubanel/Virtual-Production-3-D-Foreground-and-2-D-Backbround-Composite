@@ -67,7 +67,7 @@
 
 12.  I am missing the final work on the material.  Add it and take a screenshot!
 
-![connect shadow lerp](../images/.jpg) 
+![finished shadow matte material](../images/finishedShadowMatte.jpg) 
 
 ***
 
