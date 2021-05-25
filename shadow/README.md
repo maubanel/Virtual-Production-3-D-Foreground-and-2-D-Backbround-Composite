@@ -104,9 +104,9 @@
 
 ***
 
-18.  Now multiply the **Background** by the **Saturate** node and reconnect the **Over** node to the **Emmisions** channel.
+18.  Now multiply the **Background** by the **Saturate** node and reconnect the **Over** node to the **Emmisions** channel. Add a comment to the nodes to describe what they do.
 
-![multiply saturate and background](../images/nopictakenmissing.jpg)
+![multiply saturate and background](../images/attachShadownNodes.jpg)
 
 ***
 
