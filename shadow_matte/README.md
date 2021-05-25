@@ -65,7 +65,7 @@
 
 ***
 
-12.  I am missing the final work on the material.  Add it and take a screenshot!
+12.  Connect the output of the **Power** node to the **A** side of the lerp. Create a Vector 4 note making it solid white that is opaque or a value of `1,1,1,1`.  Connect that to the **B** side of the node.  Connect the **Saturate** node to the inpurt **Alpha** node in **Lerp**.  Connect the output fo the **Lerp** into the **Saturate** node and multiply the output by the **Background**.  Send this to the **B** side of the **Over** node.
 
 ![finished shadow matte material](../images/finishedShadowMatte.jpg) 
 
