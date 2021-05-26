@@ -9,3 +9,7 @@
 * [Lighting and Scene Geometry](light_geo/README.md)
 * [Add Shadow](shadow/README.md)
 * [Add Shadow Matte](shadow_matte/README.md)
+* [More Advanced Lighting](advanced_lighting/README.md)
+* [Lens Distortion]()
+* [Master Timeline & Playback]()
+* [Scene 0020]()
