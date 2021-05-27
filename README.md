@@ -1,5 +1,9 @@
 # Virtual Production 2-D Comp
 
+This is a breakdown of the Unreal Engine Composite Walk Through.
+
+## Table of Contents
+
 * [Getting Setup](setup/README.md)
 * [Importing EXR Sequence](importing_exr/README.md)
 * [Level Sequence Player](first_sequence/README.md)
@@ -9,7 +13,10 @@
 * [Lighting and Scene Geometry](light_geo/README.md)
 * [Add Shadow](shadow/README.md)
 * [Add Shadow Matte](shadow_matte/README.md)
-* [More Advanced Lighting](advanced_lighting/README.md)
+* [Advanced Lighting](advanced_lighting/README.md)
 * [Lens Distortion]()
-* [Master Timeline & Playback]()
-* [Scene 0020]()
+* [Shot 0020]()
+
+## Developer Info
+* ssh-add
+* make git m="your message"
