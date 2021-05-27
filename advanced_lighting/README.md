@@ -18,11 +18,6 @@
 
 ***
 
-4.  Turn auto exposure off.  We do not want the lense to open up in the shadows.
-
-![turn bloom on](../images/killAutoExposure.jpg)
-
-***
 
 5.  Turn off **Extend default luminance range in Auto Exposure Settings**.
 
@@ -31,13 +26,13 @@
 ***
 
 
-6. Turn on lens flares.
+6. Turn **off** lens flares.
 
 ![turn on lens flares](../images/lensFlares.jpg)
 
 ***
 
-7. Turn on motion blur.
+7. Turn **on** motion blur.
 
 ![turn on lens flares](../images/turnOnMotionBlur.jpg)
 
@@ -73,6 +68,10 @@
 
 ***
 
+14. Set **Bloom INtensity to `0`.
+
+***
+
 13.  First we will adjust the auto exposure range to not change exposures from `1` a min to `1` at max.
 
 ![adjust auto exposure range to 1 and 1](../images/minMaxExposure.jpg)
@@ -101,7 +100,7 @@
 
 17. Turn off reflection intensity by adjusting **Rendering Features | Screen Space Reflections | Intensity** to `0`.
 
-![turn screen based reflection intensity to 0](../images/v.jpg)
+![turn screen based reflection intensity to 0](../images/insityAdjustment.jpg)
 
 ***
 
