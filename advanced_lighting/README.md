@@ -8,7 +8,7 @@
 
 2. Open up **Edit | Project Settings | Renderer** and adjust **Custom Depth-Path Stencil Pass** to **Enabled with Stencil**.
 
-![turn on custom depth stencil path](../images/forcePrecomputedLIghting.jpg)
+![turn on custom depth stencil path](../images/forcePrecompute.jpg)
 
 ***
 
