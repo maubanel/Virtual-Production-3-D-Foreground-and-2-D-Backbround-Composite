@@ -15,7 +15,7 @@ This is a breakdown of the Unreal Engine Composite Walk Through.
 * [Add Shadow Matte](shadow_matte/README.md)
 * [Advanced Lighting](advanced_lighting/README.md)
 * [Lens Distortion](lens_distortion/README.md)
-* [Shot 0020]()
+* [Shot 0020](shot_20/README.md)
 
 ## Developer Info
 * ssh-add
