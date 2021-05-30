@@ -140,6 +140,11 @@
 
 ***
 
+22.  Now access the **PatioComp** and scroll to the end and you should see the player on top of the background.
+
+![scene 2 player on background composite](../images/compManBackSc2.jpg)
+
+***
 
 
 
