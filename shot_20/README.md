@@ -16,18 +16,20 @@
 
 3. Now you should see the **plates** and **distortion** folder with no files showing up in Unreal (this is ok).
 
-![add camera cut track](../images/distortionPlateFolder.jpg)
+![empty scene two folders](../images/distortionPlateFolder.jpg)
 
 ***
 
 4.  Lets add a **Scenes | Scene0020** folder and add two **Media | Image Media Source** actors.  Call one `Scene0020Source` and the other `Scene0020Distortion`.
 
-![add camera cut track](../images/scene2Plates.jpg)
+![add two image media source actors(../images/scene2Plates.jpg)
 *** 
 
 5.  Double click on both media sources and point them to the first **EXR** in the Unreal folder.  It is very important you are **NOT** pointing them to files outside of your **Content** folder for this project.
 
-![add camera cut track](../images/.jpg)
+![add scene 2 source](../images/linkScene2Source.jpg)
+![add scene 2 distortion](../images/linkScene2Distortion.jpg)
+
 ***
 
 6.  Add a new **Scenes | Scene 0020** a **Animation | Level Sequence** actor to the project. Call it `Scene0020Sequence`.
