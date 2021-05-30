@@ -18,10 +18,17 @@
 
 ***
 
+4.  Now we go to **Scene0010Sequence** and scroll to frame **150**.  We then click on the animation layer in the mannequin and see that in my case it is frame `392`. Remember the mocap animation is NOT captured at 24 frames per second so the scale will be different.
 
+![first cut at frame 392 in walking anitnation](../images/firstCut392.jpg)
 
+***
 
+5.  Now go to **Scene0020Sequence** and slip the mannequin animation to start at the next frame which in my case is `395`.
 
+![adjust frame in scene 2](../images/moveScene2To395.jpg)
+
+***
 
 
 ***
