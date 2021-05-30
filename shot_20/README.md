@@ -170,9 +170,11 @@
 
 ***
 
-27.  Now go on **Scene0010Sequence** and **Scene0020Sequence** and make sure the **Camera Component** has a **Focal Length**, **Aperature** and **Manual Focus Length**. If either sequence does not add them by pressing **Component +** and adding the three components.
+27.  Now go on **Scene0010Sequence** and **Scene0020Sequence** and make sure the **Camera Component** has a **Focal Length**, **Aperature** and **Manual Focus Length**. If either sequence does not add them by pressing **Component +** and adding the three components. I have also included scene 10 settings to confirm they are still the same.
 
-![add camera components to sequence 1 and 2](../images/addCameraComponents.jpg)
+![make sure camera component vaules are correct scene 2](../images/addCameraComponents.jpg)
+
+![make sure camera component vaules are correct scene 1](../images/addCameraComponents2.jpg)
 
 ***
 
