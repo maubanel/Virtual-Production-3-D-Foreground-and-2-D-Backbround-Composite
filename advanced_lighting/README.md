@@ -68,8 +68,9 @@
 
 ***
 
-14. Set **Bloom INtensity to `0`.
+14. Set **Bloom Intensity** to `0`.
 
+![set bloom to 0](../images/bloom0.jpg)
 ***
 
 13.  First we will adjust the auto exposure range to not change exposures from `1` a min to `1` at max.
