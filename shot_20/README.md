@@ -30,11 +30,19 @@
 ![add camera cut track](../images/.jpg)
 ***
 
-6.  Add a new **Scenes | Scene 0020** a **Animation | Level Sequence** actor to the project.
+6.  Add a new **Scenes | Scene 0020** a **Animation | Level Sequence** actor to the project. Call it `Scene0020Sequence`.
 
-![add camera cut track](../images/scene2LevelSequence.jpg)
+![add camera cut track](../images/addScene2Sequence.jpg)
 
 ***
+
+7.  Open up the sequence and add a **+ New Track** and select ** Media **.
+
+![add camera cut track](../images/.jpg)
+
+***
+
+8.  Right click on **Media** and select  
 
 
 
