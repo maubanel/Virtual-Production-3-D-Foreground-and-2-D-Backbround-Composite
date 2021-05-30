@@ -34,13 +34,19 @@
 
 6.  Add a new **Scenes | Scene 0020** a **Animation | Level Sequence** actor to the project. Call it `Scene0020Sequence`.
 
-![add camera cut track](../images/addScene2Sequence.jpg)
+![add scene 2 level sequence](../images/addScene2Sequence.jpg)
 
 ***
 
 7.  Open up the sequence and add a **+ Track** and select **Media Track**.
 
-![add camera cut track](../images/addMediaTrackSequence2.jpg)
+![add media track](../images/addMediaTrackSequence2.jpg)
+
+***
+
+8. Now click on **+ Media** and associate this with **Scene0020Source** image media.
+
+![assign image media to new scene 2 source](../images/addScene2ToTrack.jpg)
 
 ***
 
