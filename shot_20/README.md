@@ -134,7 +134,11 @@
 
 ***
 
+21. Now we are starting this at `0` but will be cutting roughly into frame 150 after the first cut.  So lets slip back the animation clip by a bit and we will fine tune it after.
 
+![slip mannequin animation backwards](../images/slipTrackBack.jpg)
+
+***
 
 
 
