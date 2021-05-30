@@ -158,6 +158,11 @@
 
 ***
 
+25.  Expand this distortoin media layer to take up the entire cut.
+
+![exapand distortion clip to take entire cut](../images/expandClipToTakeWholeCut.jpg)
+
+***
 
 
 
