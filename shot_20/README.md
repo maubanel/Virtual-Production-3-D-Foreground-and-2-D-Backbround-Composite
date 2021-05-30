@@ -6,9 +6,9 @@
 
 ***
 
-2.  Drag the two folders from the student folder to import the **EXR** files.  Make sure you ignore the import message and press **DO NOT IMPORT** when it pops up in the bottom right.
+2.  Drag the **footage** folder from the student folder to import the **EXR** files for the background plate and lens distortion.  Make sure you ignore the import message and press **DO NOT IMPORT** when it pops up in the bottom right.
 
-![import scene two plates](../images/.jpg)
+![copy footage folder from scene 2](../images/scopyScene2.jpg)
 
 ***
 
