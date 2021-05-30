@@ -6,6 +6,16 @@
 
 ***
 
+2.  Now put the scrub bar at **Frame** `0` and select **Scene0010** as the first cut.
+
+![add first cut to master sequence](../images/addFirstCut.jpg)
+
+***
+
+
+
+
+
 
 
 ***
