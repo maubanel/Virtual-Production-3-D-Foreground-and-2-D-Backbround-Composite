@@ -66,6 +66,20 @@
 
 ![reverse view on background plate](../images/sc2BackgroundPlate.jpg)
 
+***
+
+10. If we subtract the first frame from the last frame we find out that the sequence is 277 frames long.
+
+![scene two is 277 frames long](../images/lengthOfSc2.jpg)
+
+***
+
+
+
+
+
+
+
 
 
 
