@@ -36,9 +36,9 @@
 
 ***
 
-7. Now we need to apply the distortion in our composite.  Click on **Patio Comp** and add a new **CG Layer**. Name the layer **Lens Distortion**.
+7. Now we need to apply the distortion in our composite.  Click on **Patio Comp** and add a new **Media Layer**. Name the layer **Lens Distortion**.
 
-![add cg layer to comp](../images/addCGLensDistortionLayerOnComp.jpg)
+![add media layer to comp](../images/addSecondMediaPlate.jpg)
 
 ***
 
