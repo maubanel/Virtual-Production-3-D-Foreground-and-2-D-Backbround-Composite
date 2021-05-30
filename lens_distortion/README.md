@@ -90,7 +90,7 @@
 
 ***
 
-16. Now in the game we have not assigned the texture to the math so the image is severely distorted.  Don't worry we will fix it.
+16. Now in the game we have not assigned the texture to the math so the image is severely distorted.  Don't worry we will fix it. If you do **NOT** see the **Lens Distortion Input Element** then go back to the material and move a node around and press **Apply** again.  Often I have to do this a few times before it shows up in the **Patio Comp** details panel. 
 
 ![whacked out lens distortion](../images/whackedOutLensDistortion.jpg)
 
