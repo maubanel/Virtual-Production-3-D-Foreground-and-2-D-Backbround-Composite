@@ -98,7 +98,7 @@
 
 ***
 
-15. Now go to the student drive and in the **Scene2** folder you will find a file called **tracked_cam_2.fbx**.
+15. Now go to the student drive and in the **Scene2** folder you will find a file called **tracked_camera_0020.fbx**.
 
 ![import tracked cam 2](../images/importtTrackedCam2.jpg)
 
