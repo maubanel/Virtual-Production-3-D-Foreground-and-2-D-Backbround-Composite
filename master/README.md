@@ -1,8 +1,8 @@
 ## Add Master Sequence and Create First Edit
 
-1.  Create a new folder inside **Plates** called `Scene0020`.  Right click and select **Show in Explorer**.  We will be importing the new plates **WITHOUT** going through the import process.
+1.  Now we can include multiple sequences inside a master sequence.  So we can edit different sequences together.  Go to **Scenes** and add a **Animation | Level Sequence**.  Call it `MasterSequence`.  Press the **+ Track** and add a **Shot Track**.
 
-![import new files into new scene0020 folder](../images/showInExplorerSc2.jpg)
+![create master sequence](../images/createMasterTrack.jpg)
 
 ***
 
