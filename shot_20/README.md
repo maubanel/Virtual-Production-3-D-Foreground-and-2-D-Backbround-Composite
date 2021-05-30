@@ -122,7 +122,7 @@
 
 ***
 
-19.  Now we need the mannequin to animate in this scene as well.  Drag the **mk_mannequin_female** from the World Outliner into the **Level Sequence** as another track.
+19.  Now we need the mannequin to animate in this scene as well.  Drag the **SK_Mannequin_Female** from the World Outliner into the **Level Sequence** as another track.
 
 ![add mannequin to track](../images/dragPlayerInTimeline.jpg)
 
