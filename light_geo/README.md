@@ -91,65 +91,100 @@
 
 ***
 
-16.  Now we want the sunlight and skylight to have a general architecture that resembles the scene shot.  So there is a walkway with a roof on it so duplicate the floor and raise it for the roof.  Use the video clip as reference for how high above the head (guess if you have to).
+16. What is the best way to see the reflection maps? How do we konw if the lighting matches the film plate?  Lets build two materials to help us determine this.
+
+***
+
+17.  Createa a material called `M_GrayCard`.  A gray card is 18% gray.  So we only need to feed a **Constant** node (either right click and select **Constant** or press the **1** key and left click on the graph) and set it to .18.  This will send this value equally into the **R G B** channels. We remove all specular by setting it to `0` and setting the roughness to `1` so that it is reflecting minimal light to mimic the gray card that was shot in the **HDR** for the rectilinear projection.
+
+![create gray card material](../images/mGrayCard.jpg)
+
+***
+
+18. Now create another material called `M_Mirror`.  We plug in `1` to the base color so it is white.  We put `0` in roughness so it reflects as much light as you can can.  We then set the metallic channel to `1` which makes the surface metallic which looks like a mirror.
+
+![create gray card material](../images/mMirror.jpg)
+
+***
+
+19. So we add two **Spheres** into the game and set the **Transform | Scale** to `2.0, 2.0, 2.0` for **X Y Z**.  Call one `Gray Card Ball` and the other `Mirror Ball`. Place them in the **Lighting** folder in World Outliner and add the **M_Mirror** material to one sphere and **M_GrayCard** to the other.  We immediately notice one major problsm,  The reflection only works for the top half of the sphere, the bottom half is black.
+
+![create two spheres and place in level](../images/mirrorBallGrayCard.jpg)
+
+***
+
+20.  Normally a game has solid ground so we don't reflect the lower part of the sphere as we use the ground texture to reflect back up.  In our case the ground is in the HDR texture we included.  We need to select the **Sky Light** and click the arrow at the bottom of the **Light** tab in the **Details** panel and you will see an option **Lower Hemisphere's Solic Color** and you will turn uncheck it so it is `false`.
+
+![adjust lower hemisphere](../images/turnOffLowerHemi.jpg)
+
+***
+
+21.  Now we can see the reflection will work for the entire mannequin and not just the top half.  We will also not be darkening the character by reflecting black into the bottom half.
+
+![reflection is now 360 degrees](../images/fixedReflection.jpg)
+
+***
+
+22. Now we can look from inside of the platform looking out at the gray ball.  We can compare it to the gray ball shot in the texture used in the **Sky Light**.  We can adjust the **Intensity** of the **Light Source** (sun) to match the lighting of the gray card.
+
+
+![adjust brightness of light](../images/adjustBrightnessOfSun.jpg)
+
+***
+
+23.  Now we want the sunlight and skylight to have a general architecture that resembles the scene shot.  So there is a walkway with a roof on it so duplicate the floor and raise it for the roof.  Use the video clip as reference for how high above the head (guess if you have to).
 
 ![duplicate floor for ceiling](../images/duplicateFloorForCeiling.jpg)
 
 ***
 
-17. Now go back tot he **Sequence** and scrub until the player is at the edge of the shadow.  Now adjust the roof so that your roof line matches the one in the movie clip.
+24. Now go back tot he **Sequence** and scrub until the player is at the edge of the shadow.  Now adjust the roof so that your roof line matches the one in the movie clip.
 
 ![adjust shadow line](../images/adjustRoofShadow.jpg)
 
 ***
 
-18. Rename the roof to `Ceiling` and make sure it is in the **Patio Geo** folder (make one if you need to for all the level geometry).  Now duplicate the **Ceiling** and rotate it 90 degrees for the back wall. Rename it 1Back Wall`.
+25. Rename the roof to `Ceiling` and make sure it is in the **Patio Geo** folder (make one if you need to for all the level geometry).  Now duplicate the **Ceiling** and rotate it 90 degrees for the back wall. Rename it 1Back Wall`.
 
  ![duplicate floor for back wall](../images/backWall.jpg)
 
 ***
 
-19. Now close off the end section.  Make sure no light is leaking between the wall pieces.
+26. Now close off the end section.  Make sure no light is leaking between the wall pieces.
 
  ![close off end section](../images/closeOffEndSection.jpg)
 
 ***
 
-20.  Now scrub the scene and make any adjustments you need to.
+27.  Now scrub the scene and make any adjustments you need to.
 
 ![scrub and adjust](../images/makeAdjustments.jpg)
 
 ***
 
-21.  Now we want a material that has a bit more roughness to match an outdoor wall and make sure it is not pure white (nothing is pure white in the natural world - though it might show up that way on film). So go to the **Materials** ffolder and create a new material called `M_Basic`.
+28.  Now we want a material that has a bit more roughness to match an outdoor wall and make sure it is not pure white (nothing is pure white in the natural world - though it might show up that way on film). So go to the **Materials** ffolder and create a new material called `M_Basic`.
 
 ![new m_basic material](../images/mBasicMat.jpg)
 
 ***
 
-22.  Add a **Vector3 and make it `.9, .9, .9` as a almost white color.
+29.  Add a **Vector3 and make it `.9, .9, .9` as a almost white color.
 
 ![add vector 3 and make whitish to m_basic material](../images/greyVector3.jpg)
 
 ***
 
-23.  Connect the output of the **Vector 3** to the **Base Color** of the material.  Then add a **Scalar** node and set the value to `0.6407`. Plug this into roughness.  This will make the walls and ceiling absorb more light like the walls do in teh filmed scene.
+30.  Connect the output of the **Vector 3** to the **Base Color** of the material.  Then add a **Scalar** node and set the value to `0.6407`. Plug this into roughness.  This will make the walls and ceiling absorb more light like the walls do in teh filmed scene.
 
 ![add roughness to m_basic material](../images/addRoughnessToMBasic.jpg)
 
 ***
 
-24.  Now drag the material to all walls and ceilings (not the floor).
+31.  Now drag the material to all walls and ceilings (not the floor).
 
 ![apply m_basic material to walls](../images/applyMBasicToScene.jpg)
 
 ***
 
-
-
-
-
-
-***
 
 --- [Next Chapter - Add Shadow](../shadow/README.md) ------ [Back to Home Page](../README.md)
