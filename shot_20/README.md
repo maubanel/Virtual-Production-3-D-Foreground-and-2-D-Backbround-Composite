@@ -116,6 +116,11 @@
 
 ***
 
+18.  Now you need to left click and drag select all the keys under the camera on the **Transform** layer.  Let go and select the far left key and drag to the left to get to position 0.
+
+![drag key to 0](../images/dragKeyTo0.jpg)
+
+***
 
 
 
