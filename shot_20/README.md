@@ -104,7 +104,7 @@
 
 ***
 
-16.  Now deselect the 
+16.  Now `deselect` the **Match by Name Onlye** and **Create Camera** selections.
 
 ![import camera movement](../images/scene2CanImport.jpg)
 
