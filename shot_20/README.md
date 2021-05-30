@@ -128,6 +128,15 @@
 
 ***
 
+20.  Press the **+ Animation** button and select the only animation we have ****.
+
+![add mannequin animation to track](../images/importAnim.jpg)
+
+***
+
+
+
+
 
 
 
