@@ -106,7 +106,7 @@
 
 16.  Now deselect the 
 
-![import camera movement](../images/scene2CamImport.jpg)
+![import camera movement](../images/scene2CanImport.jpg)
 
 ***
 
