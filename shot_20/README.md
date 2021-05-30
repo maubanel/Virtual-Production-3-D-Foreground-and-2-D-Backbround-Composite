@@ -164,14 +164,14 @@
 
 ***
 
-26. 
-
-Right click on **Media Track** and select **Edit Section** and assign the **Media | Media Texture** and assign it **DistortionMediaTexture**.  
+26. Right click on **Media Track** and select **Edit Section** and assign the **Media | Media Texture** and assign it **DistortionMediaTexture**.  
 
 ![assign distortion media texture to track](../images/assignMediaTextureToDistortionSc2.jpg)
 
 ***
+ 27.  Now click on **PatioComp** and scroll and you should have shot 2 fully composited as designed.
 
+ ![scene 2 finished](../images/sc2FinalClip.jpg)
 
 
 ***
