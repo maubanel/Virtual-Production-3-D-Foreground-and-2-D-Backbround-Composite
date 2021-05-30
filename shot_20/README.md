@@ -176,7 +176,7 @@
 
 ***
 
-28.  So the settings for scene 20 are: 
+28.  So the settings for scene 20 are: **Current Aperature** is `9.0`, **Current Focal Length** is `45.4` and **Manual Focus Distance** is `213.36`.
 
 ![add camera components to sequence 1 and 2](../images/scene20Settings.jpg)
 
