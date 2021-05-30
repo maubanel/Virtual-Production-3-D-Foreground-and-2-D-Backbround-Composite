@@ -66,7 +66,7 @@
 
 ***
 
-12.  Add a **Math | Component Mask** to just get the **R G ** channels and throw away the blue channel.
+12.  Add a **Math | Component Mask** to just get the **R G** channels and throw away the blue channel.
 
 ![add component mask](../images/mathComponentMask.jpg)
 
