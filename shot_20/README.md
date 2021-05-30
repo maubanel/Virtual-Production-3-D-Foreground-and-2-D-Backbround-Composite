@@ -74,8 +74,11 @@
 
 ***
 
+11. Now make the track long enough to see at least 277 frames and fill the media track to be **EXACTLY** `277` frames long.
 
+![make media track precisely 277 frames long](../images/haveMediaTrackFillCut.jpg)
 
+***
 
 
 
