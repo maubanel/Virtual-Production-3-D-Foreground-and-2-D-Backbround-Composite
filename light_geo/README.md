@@ -91,11 +91,11 @@
 
 ***
 
-16. What is the best way to see the reflection maps? How do we konw if the lighting matches the film plate?  Lets build two materials to help us determine this.
+16. What is the best way to see the reflection maps? How do we know if the lighting matches the film plate?  Lets build two materials to help us determine this.
 
 ***
 
-17.  Createa a material called `M_GrayCard`.  A gray card is 18% gray.  So we only need to feed a **Constant** node (either right click and select **Constant** or press the **1** key and left click on the graph) and set it to .18.  This will send this value equally into the **R G B** channels. We remove all specular by setting it to `0` and setting the roughness to `1` so that it is reflecting minimal light to mimic the gray card that was shot in the **HDR** for the rectilinear projection.
+17.  Createa a material called `M_GrayCard`.  A gray card is 18% gray.  So we only need to feed a **Constant** node (either right click and select **Constant** or press the **1** key and left click on the graph) and set it to `.18`.  This will send this value equally into the **R G B** channels. We remove all specular by setting it to `0` and setting the roughness to `1` so that it is reflecting minimal light to mimic the gray card that was shot in the **HDR** for the rectilinear projection.
 
 ![create gray card material](../images/mGrayCard.jpg)
 
@@ -107,7 +107,7 @@
 
 ***
 
-19. So we add two **Spheres** into the game and set the **Transform | Scale** to `2.0, 2.0, 2.0` for **X Y Z**.  Call one `Gray Card Ball` and the other `Mirror Ball`. Place them in the **Lighting** folder in World Outliner and add the **M_Mirror** material to one sphere and **M_GrayCard** to the other.  We immediately notice one major problsm,  The reflection only works for the top half of the sphere, the bottom half is black.
+19. So we add two **Spheres** into the game and set the **Transform | Scale** to `2.0, 2.0, 2.0` for **X Y Z**.  Call one `Gray Card Ball` and the other `Mirror Ball`. Place them in the **Lighting** folder in World Outliner and add the **M_Mirror** material to one sphere and **M_GrayCard** to the other.  We immediately notice one major problem,  The reflection only works for the top half of the sphere, the bottom half is black.
 
 ![create two spheres and place in level](../images/mirrorBallGrayCard.jpg)
 
