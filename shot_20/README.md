@@ -104,13 +104,17 @@
 
 ***
 
-16.  Now `deselect` the **Match by Name Onlye** and **Create Camera** selections.
+16.  Now `deselect` the **Match by Name Onlye** and **Create Camera** selections and press the **Import** button.
 
 ![import camera movement](../images/scene2CanImport.jpg)
 
 ***
 
+17.  Now you should see a camera path in the game and notice it doesn't start at `0` on the level sequence.
 
+![see camera path](../images/camPath.jpg)
+
+***
 
 
 
