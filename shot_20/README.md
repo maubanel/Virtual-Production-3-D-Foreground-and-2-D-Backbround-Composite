@@ -56,15 +56,15 @@
 
 ***
 
-
-
 8.  Right click on **Media Track** and select **Edit Section** and assign the **Media | Media Texture** and assign it **BackgroundMediaTexture**.  
 
-![radd media texture to edit section](../images/assignSc2MediaTextureToTrack.jpg)
+![add media texture to edit section](../images/assignSc2MediaTextureToTrack.jpg)
 
 ***
 
+9.  Now you can click on the **Backbground** composure layer in the world outliner then scrub to see that the plate is showing up with a reverse view from the previous camera.  It should look like:
 
+![reverse view on background plate](../images/sc2BackgroundPlate.jpg)
 
 
 
