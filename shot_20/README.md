@@ -22,7 +22,7 @@
 
 4.  Lets add a **Scenes | Scene0020** folder and add two **Media | Image Media Source** actors.  Call one `Scene0020Source` and the other `Scene0020Distortion`.
 
-![add camera cut track](../images/.jpg)
+![add camera cut track](../images/scene2Plates.jpg)
 *** 
 
 5.  Double click on both media sources and point them to the first **EXR** in the Unreal folder.  It is very important you are **NOT** pointing them to files outside of your **Content** folder for this project.
