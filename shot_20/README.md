@@ -92,6 +92,13 @@
 
 ***
 
+14.  Make sure what is left is names **CineCamera**.  If it is not, then the animation of the camera will not import. Right click and select **Import**. Again this camera data was tracked in software like **Nuke** to derive a camera path from the 2-D plate.
+
+![import new cam data scene 2](../images/importCeneCamDataSc2.jpg)
+
+***
+
+
 
 
 
