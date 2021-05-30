@@ -166,7 +166,7 @@
 
 26. 
 
-Right click on **Media Track** and select **Edit Section** and assign the **Media | Media Texture** and assign it **BackgroundMediaTexture**.  
+Right click on **Media Track** and select **Edit Section** and assign the **Media | Media Texture** and assign it **DistortionMediaTexture**.  
 
 ![assign distortion media texture to track](../images/assignMediaTextureToDistortionSc2.jpg)
 
