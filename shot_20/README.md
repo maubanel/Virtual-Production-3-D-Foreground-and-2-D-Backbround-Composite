@@ -21,6 +21,31 @@
 ***
 
 4.  Lets add a **Scenes | Scene0020** folder and add two **Media | Image Media Source** actors.  Call one `Scene0020Source` and the other `Scene0020Distortion`.
+
+![add camera cut track](../images/.jpg)
+*** 
+
+5.  Double click on both media sources and point them to the first **EXR** in the Unreal folder.  It is very important you are **NOT** pointing them to files outside of your **Content** folder for this project.
+
+![add camera cut track](../images/.jpg)
+***
+
+6.  Add a new **Scenes | Scene 0020** a **Animation | Level Sequence** actor to the project.
+
+![add camera cut track](../images/scene2LevelSequence.jpg)
+
+***
+
+
+
+
+
+
+
+
+
+
+
 ***
 
 --- [Next Chapter - Lighting and Scene Geometry](../shadow/README.md) ------ [Back to Home Page](../README.md)
