@@ -38,7 +38,7 @@
 
 ***
 
-7.  Open up the sequence and add a **+ New Track** and select **Media Track**.
+7.  Open up the sequence and add a **+ Track** and select **Media Track**.
 
 ![add camera cut track](../images/addMediaTrackSequence2.jpg)
 
