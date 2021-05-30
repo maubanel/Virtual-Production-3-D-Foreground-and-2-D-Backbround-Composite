@@ -50,6 +50,12 @@
 
 ***
 
+9. We can have one media texture for source and for distortion but assign it to multiple **Media Tracks**.  Since we want to still use the same **M_Composite** material we will re-use those media textures.  Rename both and remove mention of scene 0010 and move them to the **Scenes** folder. Rename them to `BackgroundMediaTexutre` for the source and `DistortionMediaTexture` for the lens distortion.
+
+![rename 2 media texture files and move them tou scenes](../images/moveRenameMediaTextures.jpg)
+
+***
+
 8.  Right click on **Media** and select  
 
 
