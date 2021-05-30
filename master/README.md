@@ -12,6 +12,12 @@
 
 ***
 
+3.  Now I will be cutting at around frame **150** away to shot 2.  I looked at the footage and this seems like a logical spot.  So I will trim the clip to 150 frames.
+
+![add first cut to master sequence](../images/150FramesLong.jpg)
+
+***
+
 
 
 
