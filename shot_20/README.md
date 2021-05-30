@@ -176,7 +176,13 @@
 
 ***
 
- 27.  Now click on **PatioComp** and scroll and you should have shot 2 fully composited as designed.
+28.  So the settings for scene 20 are: 
+
+![add camera components to sequence 1 and 2](../images/scene20Settings.jpg)
+
+***
+
+ 29.  Now click on **PatioComp** and scroll and you should have shot 2 fully composited as designed.
 
  ![scene 2 finished](../images/sc2FinalClip.jpg)
 
