@@ -169,6 +169,13 @@
 ![assign distortion media texture to track](../images/assignMediaTextureToDistortionSc2.jpg)
 
 ***
+
+27.  Now go on **Scene0010Sequence** and **Scene0020Sequence** and make sure the **Camera Component** has a **Focal Length**, **Aperature** and **Manual Focus Length**. If either sequence does not add them by pressing **Component +** and adding the three components.
+
+![add camera components to sequence 1 and 2](../images/addCameraComponents.jpg)
+
+***
+
  27.  Now click on **PatioComp** and scroll and you should have shot 2 fully composited as designed.
 
  ![scene 2 finished](../images/sc2FinalClip.jpg)
@@ -176,4 +183,4 @@
 
 ***
 
---- [Next Chapter - Lighting and Scene Geometry](../master/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Add Master Sequence](../master/README.md) ------ [Back to Home Page](../README.md)
