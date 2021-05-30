@@ -146,13 +146,17 @@
 
 ***
 
-23.  Now go back to **Sequencer** and add a second media track by pressing **+ Track** and selecting a **Media Track**.
+23.  Lets add lens distortion to scene 2.  Go back to **Sequencer** and add a second media track by pressing **+ Track** and selecting a **Media Track**.
 
 ![add distortion media track to scene 2](../images/sc2SecondMediaTrack.jpg)
 
 ***
 
+24.  Now press on **+ Media** to link this media track to **Scene0020Distortion**.
 
+![add media to scene 2 distortion media](../images/linkSc2MediaTrackDistortion.jpg)
+
+***
 
 
 
