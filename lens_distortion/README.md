@@ -84,7 +84,7 @@
 
 ***
 
-15. Add the **Screen Position** to the **Mask** node and alter the **UV** node of all game scene renders.  In my case it is the **Mannequin**, **Shadow**, and **No Shadows***.
+15. Add the **Screen Position** to the **Mask** node and alter the **UV** node of all game scene renders.  In my case it is the **Mannequin**, **Shadow**, and **No Shadows**.
 
 ![add add node](../images/attachNodesForLensDistortion.jpg)
 
