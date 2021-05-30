@@ -50,7 +50,7 @@
 
 ***
 
-10. Change the **Reflection Capture Resolution to `128`.
+10. Change the **Reflection Capture Resolution** to `128`.
 
 ![change reflection capture to 128](../images/reflectionCaptureResolution.jpg)
 
