@@ -80,6 +80,25 @@
 
 ***
 
+12.  Make sure the green beginning of the cut is at `0` and the end  of the cut (red line) is at `277`.
+
+![set scene 2 cut length](../images/setBeginingAndEndSc2Cut.jpg)
+
+***
+
+13. Now we need to get the tracked camera path into the scene.  Got to **World Outliner** and drag and rop the **CineCamera** link to the sequence.  Right mouse click on the **Camera Component** and the **Transform** and delete them.
+
+![drag and drop cine cam into scene 2 level sequence](../images/dragCineCamClearOldJunk.jpg)
+
+***
+
+
+
+
+
+
+
+
 
 
 
