@@ -2,7 +2,7 @@
 
 1.  Create a new folder inside **Plates** called `Scene0020`.  Right click and select **Show in Explorer**.  We will be importing the new plates **WITHOUT** going through the import process.
 
-![create new folder](../images/.jpg)
+![import new files into new scene0020 folder(../images/showInExplorerSc2.jpg)
 
 ***
 
