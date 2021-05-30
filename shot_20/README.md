@@ -146,8 +146,11 @@
 
 ***
 
+23.  Now go back to **Sequencer** and add a second media track by pressing **+ Track** and selecting a **Media Track**.
 
+![add distortion media track to scene 2](../images/sc2SecondMediaTrack.jpg)
 
+***
 
 
 
