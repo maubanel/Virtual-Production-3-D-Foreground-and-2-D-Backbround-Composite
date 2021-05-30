@@ -128,7 +128,7 @@
 
 ***
 
-20.  Press the **+ Animation** button and select the only animation we have ****.
+20.  Press the **+ Animation** button and select the only animation we have **mocap_patio_walk**.
 
 ![add mannequin animation to track](../images/importAnim.jpg)
 
