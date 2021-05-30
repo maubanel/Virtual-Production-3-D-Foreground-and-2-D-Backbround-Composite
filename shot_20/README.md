@@ -56,9 +56,13 @@
 
 ***
 
-8.  Right click on **Media** and select  
 
 
+8.  Right click on **Media Track** and select **Edit Section** and assign the **Media | Media Texture** and assign it **BackgroundMediaTexture**.  
+
+![radd media texture to edit section](../images/assignSc2MediaTextureToTrack.jpg)
+
+***
 
 
 
