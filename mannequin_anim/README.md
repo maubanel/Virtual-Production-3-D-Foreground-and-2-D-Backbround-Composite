@@ -84,7 +84,6 @@
 
 ![slip animation to frame 17](../images/slipAnimToFrame17.jpg)
 
-
 ***
 
 [Previous](../mannequin_anim/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add Shadow](../shadow/README.md)
