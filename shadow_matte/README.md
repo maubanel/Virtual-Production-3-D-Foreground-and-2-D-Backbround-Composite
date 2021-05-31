@@ -1,4 +1,4 @@
-[Next Chapter - Advanced Lighting](../shadow_matte/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Next Chapter - Advanced Lighting](../advanced_lighting/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
 
 ## Add Shadow Matte
 
@@ -80,4 +80,4 @@
 
 ***
 
-[Next Chapter - Advanced Lighting](../shadow_matte/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Next Chapter - Advanced Lighting](../advanced_lighting/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
