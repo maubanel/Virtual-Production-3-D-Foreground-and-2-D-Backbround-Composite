@@ -12,7 +12,7 @@
 
 ***
 
-3. Now open up the **Component** tab and add a new **Media Lqayer** and call it `Matte`.
+3. Now open up the **Component** tab and add a new **Media Layer** and call it `Matte`.
 
 ![add matte layer to comp](../images/matteMediaLayer.jpg)
 
