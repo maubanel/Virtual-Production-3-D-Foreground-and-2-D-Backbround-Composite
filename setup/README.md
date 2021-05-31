@@ -51,5 +51,5 @@ ct a blank project as we will starting from scratch. Press the **Next** button.
 
 ***
 
-[Next Chapter - Importing EXR Sequence](../importing_exr/README.md/README.md) &nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Next Chapter - Importing EXR Sequence](../importing_exr/README.md) &nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
 
