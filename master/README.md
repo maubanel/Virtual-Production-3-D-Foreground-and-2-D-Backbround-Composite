@@ -98,11 +98,17 @@
 
 17.  Right click on graph and select the **Create Level Sequence Player** node.
 
-![add branch node](../images/createLevelPlayer.jpg)
+![add level sequence player node](../images/createLevelPlayer.jpg)
 
 ***
 
-18. 
+18. Now connect the execution pin from **Branch True** (so this will only run if the boolean is set to true) to **Create Level Sequence Player** execution pin.  Press on **Level Sequence** and select `MasterSequence`.
+
+![select master sequence](../images/selectMasterSequence.jpg)
+
+***
+
+
 
 
 
