@@ -54,9 +54,22 @@
 
 ***
 
-10.  Create a new folder called `Blueprints` and press **Add/Import** and select **Blueprint**.
+10.  Create a new folder called `Blueprints` and press **Add/Import** and select **Blueprint Class**.
 
 ![add blueprint](../images/addBPFolder.jpg)
+
+***
+
+11.  Select **Actor** blueprint.
+
+![select actor blueprint](../images/actorBP.jpg)
+
+***
+
+
+
+
+
 
 
 
