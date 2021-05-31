@@ -46,7 +46,7 @@
 
 8.  Retrim the final shot so that the animation starts at the point you want it to for the final cut.
 
-![duplicate scene 10](../images/.jpg)
+![duplicate scene 10](../images/moveStartTrack.jpg)
 
 ***
 
