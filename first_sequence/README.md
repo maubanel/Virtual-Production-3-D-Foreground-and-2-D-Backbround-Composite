@@ -1,3 +1,5 @@
+--- [Next Chapter - Add CG Character To Composite](../cg_character/README.md) ------ [name the new project](../README.md)
+
 ## First Level Sequence
 
 1.  Normally we would use a **Media Player** actor to play the video.  Since we are not using a game engine to play a cut scene we will be just using it to play back a scene.  In UE4 it is called **Sequencer**.  This allows us to play back a clip without the media player object.  Go to the **Scenes | Scene0010** folder and click on the **Add/Import | Animation | Level Sequence** element. 
