@@ -70,4 +70,15 @@
 
 ***
 
+12.  Export the movie one final time.
+
+![export movie again](../images/defaultMovieExport.jpg)
+
+***
+
+13.  So the movie should look something like this.
+
+
+***
+
  ------ [Back to Home Page](../README.md)
