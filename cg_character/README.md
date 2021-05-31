@@ -1,4 +1,4 @@
-[Previous](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add CG Character To Composite](../cg_character_ii/README.md)
+[Previous](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add CG Character To Composite II](../cg_character_ii/README.md)
 
 ## Add CG Character To Composite
 
@@ -144,4 +144,4 @@
 
 ***
 
-[Previous](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add CG Character To Composite](../cg_character_ii/README.md)
+[Previous](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add CG Character To Composite II](../cg_character_ii/README.md)
