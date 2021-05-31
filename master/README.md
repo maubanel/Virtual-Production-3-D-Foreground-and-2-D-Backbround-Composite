@@ -1,4 +1,4 @@
-## Add Master Sequence and Create First Edit
+## Add Master Sequence and Create and Export First Edit
 
 1.  Now we can include multiple sequences inside a master sequence.  So we can edit different sequences together.  Go to **Scenes** and add a **Animation | Level Sequence**.  Call it `MasterSequence`.  Press the **+ Track** and add a **Shot Track**.
 
@@ -50,11 +50,13 @@
 
 9. Now to export the video, it is the equivalent of hitting **Play** like when you play again in Unreal. Click on the **Arrow** next to the **Play** button.  Select **New Editor Window (PIE).
 
-![change play to ](../images/newPieEditorWindow.jpg).jpg
+![chamnge playback of game](../images/newPieEditorWindow.jpg)
 
 ***
 
+10.  Create a new folder called `Blueprints` and press **Add/Import** and select **Blueprint**.
 
+![add blueprint](../images/addBPFolder.jpg)
 
 
 
