@@ -30,7 +30,7 @@
 
 ***
 
-6.  Now in the **MasterSequence** add another **+ Shot** and select **Scene0020**.
+6.  Now in the **MasterSequence** add another **+ Shot** and select **Scene0020Sequence**.
 
 ![edit scene 2](../images/scene20Edit.jpg)
 
