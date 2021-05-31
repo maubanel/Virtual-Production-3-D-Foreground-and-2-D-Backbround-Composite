@@ -48,11 +48,15 @@
 
 ***
 
+9.  Export the final movie.
+
+![duplicate scene 10](../images/exportFinalMovie.jpg)
+
 9. Now I went to export the final clip (even though it played back fine) and I had a matte showing up in other scenes without a matte layer.
 
 ![bad matte in wrong shot](../images/unwantedMatte.jpg)
 
-
+***
 
 
 
