@@ -108,6 +108,15 @@
 
 ***
 
+19. Pull off of the **Return Value** pin and select **PlayLooping** node.
+
+![select play looping node](../images/playLooping.jpg)
+
+***
+
+
+
+
 
 
 
