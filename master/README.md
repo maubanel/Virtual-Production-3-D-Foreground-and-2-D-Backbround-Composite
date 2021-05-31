@@ -86,9 +86,11 @@
 
 15.  Drag and drop **bAutoPlay** onto the empty graph.  Select **Get Auto Play**.
 
-![get auto play](../images/addedBooleanforBP.jpg)
+![get auto play](../images/dragAutoPlay.jpg)
 
 ***
+
+
 
 
 
