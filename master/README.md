@@ -1,3 +1,5 @@
+[Next Chapter - Scene 0030](../shot_30/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+
 ## Add Master Sequence and Export First Edit
 
 1.  Now we can include multiple sequences inside a master sequence.  So we can edit different sequences together.  Go to **Scenes** and add a **Animation | Level Sequence**.  Call it `MasterSequence`.  Press the **+ Track** and add a **Shot Track**.
@@ -146,6 +148,7 @@ connectPlayLooping
 
 23.  Play exported movie
 
+***
 
 
---- [Next Chapter - Scene 0030](../shot_30/README.md) ------ [Back to Home Page](../README.md)
+[Next Chapter - Scene 0030](../shot_30/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
