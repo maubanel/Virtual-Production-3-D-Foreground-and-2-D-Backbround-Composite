@@ -1,4 +1,4 @@
---- [Next Chapter - Add CG Character To Composite](../cg_character/README.md) ------ [name the new project](../README.md)
+[Previous](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add CG Character To Composite](../cg_character/README.md)
 
 ## First Level Sequence
 
