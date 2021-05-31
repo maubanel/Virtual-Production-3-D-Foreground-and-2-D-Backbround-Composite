@@ -118,8 +118,6 @@
 
 20.  Connect the execution pins and **Return Value** to **Target** pins in the node chart then press the **Compile** button.
 
-connectPlayLooping
-
 ![select play looping node](../images/connectPlayLooping.jpg)
 
 ***
