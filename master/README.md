@@ -130,11 +130,16 @@ connectPlayLooping
 
 22.  Play video
 
+***
 
-23. Export video.
+23. Now we need to export the video so we can use it.  You could export **EXR** and assemble it in Adobe Premier or Nuke which would be prefered.  You can also just export an **AVI** in the editor.  You need to export it inside the Unreal project (it puts it in the **Saved** folder) as it doesn't have access to write data outside.
 
-
+![export movie](../images/defaultMovieExport.jpg)
 
 ***
+
+23.  Play exported movie
+
+
 
 --- [Next Chapter - Scene 0030](../shot_30/README.md) ------ [Back to Home Page](../README.md)

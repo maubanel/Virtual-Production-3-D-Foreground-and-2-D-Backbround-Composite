@@ -36,8 +36,21 @@
 
 ***
 
+7.  For the final cut we do go back to the first view.  But we can't use the same sequence as the start time is wrong.  We need to duplicate it instead.
 
+![duplicate scene 10](../images/duplicateScene10.jpg)
 
+***
+
+8.  Retrim the final shot so that the animation starts at the point you want it to for the final cut.
+
+![duplicate scene 10](../images/.jpg)
+
+***
+
+9. Now I went to export the final clip (even though it played back fine) and I had a matte showing up in other scenes without a matte layer.
+
+![bad matte in wrong shot](../images/unwantedMatte.jpg)
 
 
 
