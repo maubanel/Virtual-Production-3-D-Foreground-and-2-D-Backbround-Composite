@@ -137,9 +137,9 @@ https://user-images.githubusercontent.com/5504953/120215988-0d0ff100-c1fc-11eb-8
 
 ***
 
-22.  Sometimes it is useful to preview hitting the play button as this imitates what the movie exporter does.  Make sure you clip look good.  Now **BEFORE** we esxport disconnect the playback.
+22.  Sometimes it is useful to preview hitting the play button as this imitates what the movie exporter does.  Make sure you clip look good.  Now **BEFORE** we esxport disconnect the playback by turning `off` **AutoPlay**.
 
-![drag master sequence into game scene](../images/dragBPIntoGame.jpg)
+![drag master sequence into game scene](../images/turnOffAutoPlay.jpg)
 
 ***
 
