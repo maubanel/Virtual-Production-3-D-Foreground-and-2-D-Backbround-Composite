@@ -123,4 +123,4 @@
  
  ***
 
---- [Next Chapter - Level Sequence Player](../first_sequence/README.md) ------ [Back to Home Page](../README.md)
+--- [Next Chapter - Level Sequence Player](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
