@@ -64,6 +64,9 @@
 
 ***
 
+11.  Now you can add a **Media** track to the first, second and fourth cut. Don't forget to assign the media texture to it.
+
+![assign media matte texture to added media layers in three shots](../images/assignNewMatteLayer.jpg)
 
 ***
 
