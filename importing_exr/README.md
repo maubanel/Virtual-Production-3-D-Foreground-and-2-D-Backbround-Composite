@@ -1,4 +1,4 @@
-[Next Chapter - First Level Sequence](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../setup/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - First Level Sequence](../first_sequence/README.md)
 
 ## Importing EXR Sequence 
 
@@ -125,4 +125,4 @@
  
  ***
 
-[Next Chapter - First Level Sequence](../first_sequence/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../setup/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - First Level Sequence](../first_sequence/README.md)
