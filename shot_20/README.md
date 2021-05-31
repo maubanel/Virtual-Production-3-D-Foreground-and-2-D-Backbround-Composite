@@ -1,3 +1,5 @@
+[Next Chapter - Add Master Sequence](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+
 ## Shot 0020
 
 1.  Create a new folder inside **Plates** called `Scene0020`.  Right click and select **Show in Explorer**.  We will be importing the new plates **WITHOUT** going through the import process.
@@ -191,4 +193,4 @@
 
 ***
 
---- [Next Chapter - Add Master Sequence](../master/README.md) ------ [Back to Home Page](../README.md)
+[Next Chapter - Add Master Sequence](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
