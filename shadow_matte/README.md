@@ -80,4 +80,4 @@
 
 ***
 
-[Next Chapter - Advanced Lighting](../advanced_lighting/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Advanced Lighting](../advanced_lighting/README.md)
