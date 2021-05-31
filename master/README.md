@@ -131,13 +131,7 @@ connectPlayLooping
 22.  Play video
 
 
-
-
-
-
-
-
-
+23. Export video.
 
 
 

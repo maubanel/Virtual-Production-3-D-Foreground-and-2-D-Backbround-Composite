@@ -24,6 +24,11 @@
 
 ***
 
+5.  Don't forget to add the source and media texture to the **Matte** track in the **Sequencer**.
+
+![assign source and matte to sequence](../images/mediaSourceAndMatte.jpg)
+
+***
 
 
 
