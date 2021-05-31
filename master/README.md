@@ -78,8 +78,17 @@
 
 ***
 
+14. Add a new **Variable** of type **Boolean** and call it `bAutoPlay`.  Make sure it is set to **Instance Editable**. This will allow us to turn this on and off in the editor.
 
+![add autopla boolean](../images/addedBooleanforBP.jpg)
 
+***
+
+15.  Drag and drop **bAutoPlay** onto the empty graph.  Select **Get Auto Play**.
+
+![get auto play](../images/addedBooleanforBP.jpg)
+
+***
 
 
 
