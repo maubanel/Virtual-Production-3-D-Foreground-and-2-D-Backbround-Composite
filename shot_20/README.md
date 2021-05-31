@@ -1,4 +1,4 @@
-[Next Chapter - Add Master Sequence](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../lens_distortion/README.md&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add Master Sequence](../master/README.md)
 
 ## Shot 0020
 
@@ -193,4 +193,4 @@
 
 ***
 
-[Next Chapter - Add Master Sequence](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../lens_distortion/README.md&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add Master Sequence](../master/README.md)
