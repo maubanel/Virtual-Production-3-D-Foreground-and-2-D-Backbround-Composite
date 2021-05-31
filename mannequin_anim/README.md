@@ -1,3 +1,5 @@
+[Next Chapter - Lighting and Scene Geometry](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+
 ## Add Animation to Camera and Mannequin
 
 1.  Now we need to animate the camera and the actor in the scene so it matches the camear path originally shot.  Make sure you have selected **Scene0010Sequence** and press **+ Track** and select a **Camera Cut Track**.
@@ -85,4 +87,4 @@
 
 ***
 
---- [Next Chapter - Lighting and Scene Geometry](../shadow/README.md) ------ [Back to Home Page](../README.md)
+[Next Chapter - Lighting and Scene Geometry](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
