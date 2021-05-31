@@ -72,6 +72,20 @@
 
 ***
 
+13. Open up **BP_Game** by double clicking on it.  Select the **Event Graph** tab and delete **Event Tick** and **Event Actor Begin Overlap** as we will not be using these.
+
+![delete unused events](../images/deleteUnusedEvents.jpg)
+
+***
+
+
+
+
+
+
+
+
+
 
 
 
