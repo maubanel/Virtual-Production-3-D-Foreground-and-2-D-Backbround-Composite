@@ -1,4 +1,4 @@
-[Next Chapter - Add Shadow](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../mannequin_anim/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add Shadow](../shadow/README.md)
 
 ## Add Animation to Camera and Mannequin
 
@@ -87,4 +87,4 @@
 
 ***
 
-[Next Chapter - Add Shadow](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../mannequin_anim/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Add Shadow](../shadow/README.md)
