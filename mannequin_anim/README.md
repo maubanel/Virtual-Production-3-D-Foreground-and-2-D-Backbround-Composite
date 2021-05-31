@@ -13,7 +13,7 @@
 
 ***
 
-3.  We need to delete all elements under the camera (???).  UE4 does not have the ability to derive a virutal camera position from a film plate.  You need to use software like ****Nuke** as well as numerous other options to get a camera FBX.  This has been done by Unreal for us so we can just import it (this does not come from the camera footage).  Right mouse click on **CineCamera** and select **Import**.
+3.  We need to delete all elements under the camera.  UE4 does not have the ability to derive a virutal camera position from a film plate.  You need to use software like ****Nuke** as well as numerous other options to get a camera FBX.  This has been done by Unreal for us so we can just import it (this does not come from the camera footage).  Right mouse click on **CineCamera** and select **Import**.
 
 
 ![press import button on camera in sequencer](../images/pressImportButtonForCamTrack.jpg)
