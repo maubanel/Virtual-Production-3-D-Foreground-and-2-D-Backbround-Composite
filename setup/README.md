@@ -1,4 +1,4 @@
-[Next Chapter - Importing EXR Sequence](../importing_exr/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Importing EXR Sequence](../importing_exr/README.md)
 
 ## Setup
 
