@@ -158,6 +158,12 @@ https://user-images.githubusercontent.com/5504953/120215988-0d0ff100-c1fc-11eb-8
 
 23.  Play exported movie
 
+
+
+https://user-images.githubusercontent.com/5504953/120217841-8577b180-c1fe-11eb-95d6-5eb743483521.mp4
+
+
+
 ***
 
 [Previous](../shot_20/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Scene 0030](../shot_30/README.md)
