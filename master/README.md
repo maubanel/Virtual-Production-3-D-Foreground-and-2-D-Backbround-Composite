@@ -63,6 +63,9 @@
 ***
 
 11.  Select **Actor** blueprint.
+https://user-images.githubusercontent.com/5504953/120215963-02edf280-c1fc-11eb-81af-32e4b765f88c.mp4
+
+
 
 ![select actor blueprint](../images/actorBP.jpg)
 
@@ -135,6 +138,8 @@
 ***
 
 22.  Play video
+
+https://user-images.githubusercontent.com/5504953/120215988-0d0ff100-c1fc-11eb-8963-a2a97da14baa.mp4
 
 ***
 
