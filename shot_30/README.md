@@ -12,6 +12,17 @@
 
 ***
 
+3. Now open up the **Component** tab and add a new **Media Lqayer** and call it `Matte`.
+
+![add matte layer to comp](../images/matteMediaLayer.jpg)
+
+***
+
+4. Now we need to adjust our compositing material to add this matte.  Open up **M_Composite** and add a **Texture Sample Parameter 2D** node to the chart.  In the Unreal video they mentioned initially wanting two matte layers but ended up only using one.  So we can add the **B G** layer together.  We invert this layer to get the matted section to be black with a **One Minus** node.  We then feed it into the **Matte** pin of the **Over** node.
+
+![create a matte set of nodes in m_composite](../images/mCompositeMatte.jpg)
+
+***
 
 
 
