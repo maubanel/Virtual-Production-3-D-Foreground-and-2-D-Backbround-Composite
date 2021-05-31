@@ -36,6 +36,15 @@
 
 ***
 
+7. If the edit doesn't look right make sure that shot 0010 and 0020 have the 
+
+![line up cuts](../images/lineUpCut.jpg)
+
+***
+
+
+
+
 
 
 
