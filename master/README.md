@@ -94,6 +94,15 @@
 
 ![add branch node](../images/beginPlayBranch.jpg)
 
+***
+
+17.  Right click on graph and select the **Create Level Sequence Player** node.
+
+![add branch node](../images/createLevelPlayer.jpg)
+
+***
+
+18. 
 
 
 
