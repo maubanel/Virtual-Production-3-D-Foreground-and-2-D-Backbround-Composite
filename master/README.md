@@ -114,9 +114,21 @@
 
 ***
 
+20.  Connect the execution pins and **Return Value** to **Target** pins in the node chart then press the **Compile** button.
 
+connectPlayLooping
 
+![select play looping node](../images/playLooping.jpg)
 
+***
+
+21.  Close the blueprint and go back to the editor.  Drag **BP_Game** into the game scene.
+
+![drag bp game into game scene](../images/dragBPIntoGame.jpg)
+
+***
+
+22.  Play video
 
 
 
