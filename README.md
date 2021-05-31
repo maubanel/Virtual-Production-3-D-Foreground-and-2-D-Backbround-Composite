@@ -16,6 +16,7 @@ This is a breakdown of the Unreal Engine Composite Walk Through.
 * [Advanced Lighting](advanced_lighting/README.md)
 * [Lens Distortion](lens_distortion/README.md)
 * [Shot 0020](shot_20/README.md)
+* [Master Sequence & Exporting](master/README.md)
 * [Shot 0030](shot_30/README.md)
 
 ## Developer Info
