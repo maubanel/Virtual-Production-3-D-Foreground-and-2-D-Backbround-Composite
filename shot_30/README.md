@@ -1,4 +1,4 @@
-[Back to Home Page](../README.md)
+[Previous](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Home](../README.md)
 
 ## Third and Fourth Cut
 
@@ -83,4 +83,4 @@
 
 ***
 
-[Back to Home Page](../README.md)
+[Previous](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Home](../README.md)
