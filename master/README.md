@@ -48,7 +48,7 @@
 
 ***
 
-9. Now to export the video, it is the equivalent of hitting **Play** like when you play again in Unreal. Click on the 
+9. Now to export the video, it is the equivalent of hitting **Play** like when you play again in Unreal. Click on the **Arrow** next to the **Play** button.  Select **New Editor Window (PIE).
 
 ![change play to ](../images/newPieEditorWindow.jpg).jpg
 
