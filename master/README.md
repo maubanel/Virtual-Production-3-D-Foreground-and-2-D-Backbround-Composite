@@ -1,4 +1,4 @@
-## Add Master Sequence and Create and Export First Edit
+## Add Master Sequence and Export First Edit
 
 1.  Now we can include multiple sequences inside a master sequence.  So we can edit different sequences together.  Go to **Scenes** and add a **Animation | Level Sequence**.  Call it `MasterSequence`.  Press the **+ Track** and add a **Shot Track**.
 
