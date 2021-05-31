@@ -131,15 +131,22 @@ https://user-images.githubusercontent.com/5504953/120215963-02edf280-c1fc-11eb-8
 
 ***
 
-22. Now drag the **Master Sequence** clip into the level so that it appears in the **World Outliner**
-
-![drag bp game into game scene](../images/.jpg)
-
-***
-
 22.  Play video
 
 https://user-images.githubusercontent.com/5504953/120215988-0d0ff100-c1fc-11eb-8963-a2a97da14baa.mp4
+
+***
+
+22.  Sometimes it is useful to preview hitting the play button as this imitates what the movie exporter does.  Make sure you clip look good.  Now **BEFORE** we esxport disconnect the playback.
+
+![drag master sequence into game scene](../images/dragBPIntoGame.jpg)
+
+***
+
+
+22. Now drag the **Master Sequence** clip into the level so that it appears in the **World Outliner**
+
+![drag bp game into game scene](../images/.jpg)
 
 ***
 
