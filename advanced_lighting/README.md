@@ -1,4 +1,4 @@
-[Next Chapter - Lens Distortion](../lens_distortion/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../shadow_matte/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Lens Distortion](../lens_distortion/README.md)
 
 ## Advanced Lighting
 
@@ -122,4 +122,4 @@
 
 ***
 
-[Next Chapter - Lens Distortion](../lens_distortion/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Previous](../shadow_matte/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;[Home](../README.md)&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Lens Distortion](../lens_distortion/README.md)
