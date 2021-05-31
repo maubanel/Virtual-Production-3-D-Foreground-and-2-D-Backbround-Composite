@@ -146,7 +146,7 @@ https://user-images.githubusercontent.com/5504953/120215988-0d0ff100-c1fc-11eb-8
 
 22. Now drag the **Master Sequence** clip into the level so that it appears in the **World Outliner**
 
-![drag bp game into game scene](../images/.jpg)
+![drag master sequence into game scene](../images/dragMasterToScene.jpg)
 
 ***
 
