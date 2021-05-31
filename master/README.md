@@ -36,14 +36,17 @@
 
 ***
 
-7. If the edit doesn't look right make sure that shot 0010 and 0020 have the 
+7. If the edit doesn't look right make sure that shot 0010 and 0020 have the **Green** start is in the right spot and that the **Camera Cuts** layer lines up and doesn't start early or late.  You can also trim both **Media** tracks as well.
 
 ![line up cuts](../images/lineUpCut.jpg)
 
 ***
 
+8. Now you need to scrub the edit.  Is the player continuous.  Look at the game editor and see if the mannequin jumps back or foreward and make adjustements.  I decided to tweak this as well as make the first shot a bit longer.
 
+![tweak edits](../images/tweakEdits.jpg)
 
+***
 
 
 
