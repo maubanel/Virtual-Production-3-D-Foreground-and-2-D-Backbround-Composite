@@ -120,7 +120,7 @@
 
 connectPlayLooping
 
-![select play looping node](../images/playLooping.jpg)
+![select play looping node](../images/connectPlayLooping.jpg)
 
 ***
 
