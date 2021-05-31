@@ -58,9 +58,11 @@
 
 ***
 
+10.  If you have the same problem lets assign a blank matte to the other three scenes. In **Scenes** ad a **Img Media Source** layer and copy over any of the matte layers into the **Plates** folder without importing them (like before).  The matte folder for scene 10 and 20 are the same so you only need one.  Then point the new image source to this one file.
 
+![add empty matte data source](../images/emptyMatteSource.jpg)
 
-
+***
 
 
 ***
