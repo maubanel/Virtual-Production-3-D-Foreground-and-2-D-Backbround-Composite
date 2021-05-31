@@ -1,4 +1,4 @@
-[Next Chapter - Add Animation to Camera and Mannequin](../mannequin_anim/README.md)nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Next Chapter - Add Animation to Camera and Mannequin](../mannequin_anim/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
 
 ## Add CG Character To Composite II
 
@@ -90,4 +90,4 @@
 
 ***
 
-[Next Chapter - Add Animation to Camera and Mannequin](../mannequin_anim/README.md)nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Next Chapter - Add Animation to Camera and Mannequin](../mannequin_anim/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
