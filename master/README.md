@@ -1,4 +1,4 @@
-[Previous](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Scene 0030](../shot_30/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Home](../README.md)
+[Previous](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Home](../README.md)[Next Chapter - Scene 0030](../shot_30/README.md)
 
 ## Add Master Sequence and Export First Edit
 
@@ -151,4 +151,4 @@ connectPlayLooping
 ***
 
 
-[Previous](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Next Chapter - Scene 0030](../shot_30/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Home](../README.md)
+[Previous](../master/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Home](../README.md)[Next Chapter - Scene 0030](../shot_30/README.md)
