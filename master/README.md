@@ -91,7 +91,8 @@
 ***
 
 16.  Now right click on the empty graph and add a **Branch** node.  Connect the exeuction pin from **Begin Play** to the execution pin from **Branch**. Then connect the output of **AutoPlay** into the **Condition** input pin on the **Branch** node.
-beginPlayBranch
+
+![add branch node](../images/beginPlayBranch.jpg)
 
 
 
