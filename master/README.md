@@ -126,7 +126,7 @@ connectPlayLooping
 
 21.  Close the blueprint and go back to the editor.  Drag **BP_Game** into the game scene.
 
-![drag bp game into game scene](../images/dragBPIntoGame.jpg)
+![drag master sequence into game scene](../images/dragBPIntoGame.jpg)
 
 ***
 
