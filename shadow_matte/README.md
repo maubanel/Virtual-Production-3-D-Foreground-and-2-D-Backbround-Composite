@@ -1,3 +1,5 @@
+[Next Chapter - ??](../shadow_matte/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+
 ## Add Shadow Matte
 
 1. To do this to *film* standards we would probably create a frame by frame matte to separate the shadow layer.  But UE4 implemented a pretty decent work around that saves having to roto each frame.  What they did was desaturate and reverse the colors so that the light portion with shadows will be the black pixels.  We will take our background and make it look like this:
@@ -78,4 +80,4 @@
 
 ***
 
---- [Next Chapter - ??](../shadow_matte/README.md) ------ [Back to Home Page](../README.md)
+[Next Chapter - ??](../shadow_matte/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
