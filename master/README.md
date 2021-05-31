@@ -130,7 +130,7 @@ connectPlayLooping
 
 ***
 
-22. Now drag the **Master Sequence** clip into the level so that it appears in the ***World Outliner**
+22. Now drag the **Master Sequence** clip into the level so that it appears in the **World Outliner**
 
 ![drag bp game into game scene](../images/.jpg)
 
