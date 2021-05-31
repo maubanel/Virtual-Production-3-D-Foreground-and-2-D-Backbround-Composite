@@ -1,4 +1,4 @@
-[Next Chapter - Lighting and Scene Geometry](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Next Chapter - Add Shadow](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
 
 ## Add Animation to Camera and Mannequin
 
@@ -87,4 +87,4 @@
 
 ***
 
-[Next Chapter - Lighting and Scene Geometry](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+[Next Chapter - Add Shadow](../shadow/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
