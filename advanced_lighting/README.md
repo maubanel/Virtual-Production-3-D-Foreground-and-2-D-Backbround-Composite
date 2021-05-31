@@ -1,3 +1,5 @@
+[Next Chapter - Lens Distortion](../lens_distortion/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
+
 ## Advanced Lighting
 
 1. Go to World Settings and turn on **Force No Precomputed Lighting** and press **OK**.  This will make sure that no lights are baked and everything is dynamic. We want a tick mark in this box.
@@ -120,4 +122,4 @@
 
 ***
 
---- [Next Chapter - ??](../shadow_matte/README.md) ------ [Back to Home Page](../README.md)
+[Next Chapter - Lens Distortion](../lens_distortion/README.md)&nbsp;&nbsp;&nbsp;<------>&nbsp;&nbsp;&nbsp;[Back to Home Page](../README.md)
