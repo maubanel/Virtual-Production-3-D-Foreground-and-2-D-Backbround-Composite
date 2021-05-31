@@ -30,6 +30,14 @@
 
 ***
 
+6.  You should get it so that the player appears behind the objects:
+
+![matte workign in game](../images/matteWorks.jpg)
+
+***
+
+
+
 
 
 
