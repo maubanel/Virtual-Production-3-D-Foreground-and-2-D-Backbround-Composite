@@ -10,7 +10,7 @@
 
 2.  Now I forgot to adjust the aperature, focal length and focus distance.  We need to make sure that each scene has these three **Camera Components**.  If not press **Camera Component +** and add a ``, `` and ``.
 
-![import new files into new scene0020 folder](../images/scenethreeCameraComponents03Overview.png)
+![import new files into new scene0020 folder](../images/scenethreeCameraComponents03Overview.jpg)
 
 ***
 
