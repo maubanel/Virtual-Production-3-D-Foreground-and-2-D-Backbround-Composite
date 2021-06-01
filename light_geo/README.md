@@ -92,6 +92,11 @@
 ![adjust resolution and threshold](../images/adjustSkyLight.jpg)
 
 ***
+16.  Change the **Mobility** of the **Skylight** to **Movable**.  This way it will not try and bake shadows and reflections and will render them at run time in engine.
+
+![make skylight movable](../images/makeSylightMovable.jpg)
+
+***
 
 16. What is the best way to see the reflection maps? How do we know if the lighting matches the film plate?  Lets build two materials to help us determine this.
 
