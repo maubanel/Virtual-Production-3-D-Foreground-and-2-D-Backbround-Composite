@@ -8,6 +8,12 @@
 
 ***
 
+2.  Now I forgot to adjust the aperature, focal length and focus distance.  We need to make sure that each scene has these three **Camera Components**.  If not press **Camera Component +** and add a ``, `` and ``.
+
+![import new files into new scene0020 folder](../images/scenethreeCameraComponents03Overview.png)
+
+***
+
 2. You will need to import a **Matte** layer into the sequence and the composite for shot three.  Create a new **Media Image Sequeqnce** and call it **Shot0030Matte**.  Add another **Media Layer** to the **Shot0030Sequence**.  Create a new **Media | Media** texture.
 
 ![add thrid media texture](../images/thirdMediaTexture.jpg)
